@@ -1,0 +1,1024 @@
+Product_ID,Category,Brand_name,Product_name,Unit_size,Unit_of_measure,Wholsale_price,Profit,Unit_price,Inventory,Out_of_stock,Lead_time
+1,Dry Yeast,Lallemand,Nottingham Yeast,11,g,5.03,0.05,5.28,3,N,9
+2,Dry Yeast,Lallemand,London ESB Yeast,11,g,5.31,0.05,5.58,0,Y,10
+3,Hops,BSG,Centennial Pellets,1,OZ,2.42,0.05,2.54,10,N,18
+4,Hops,BSG,Chinook Pellets,1,OZ,2.84,0.05,2.98,2,N,15
+5,Hops,BSG,Cluster Pellets,1,OZ,2.32,0.05,2.43,7,N,17
+6,Hops,BSG,CTZ Pellets,1,OZ,2.84,0.05,2.98,4,N,21
+7,Hops,BSG,Galena Pellets,1,OZ,2.41,0.05,2.53,2,N,19
+8,Hops,BSG,Liberty Pellets,1,OZ,2.61,0.05,2.74,11,N,7
+9,Hops,BSG,Mount Hood Pellets,1,OZ,2.42,0.05,2.54,2,N,15
+10,Hops,BSG,Nugget Pellets,1,OZ,2.33,0.05,2.44,6,N,15
+11,Hops,BSG,Sorachi Ace Pellets,1,OZ,2.8,0.05,2.94,5,N,11
+12,Hops,BSG,Willamette Pellets,1,OZ,2.28,0.05,2.39,9,N,20
+13,Hops,BSG,Azacca Pellets,1,OZ,2.9,0.05,3.04,3,N,13
+14,Hops,BSG,Comet Pellets,1,OZ,2.75,0.05,2.88,12,N,13
+15,Hops,BSG,Crystal Pellets,1,OZ,2.42,0.05,2.54,10,N,11
+16,Hops,BSG,Ekuanot Pellets,1,OZ,3.04,0.05,3.19,10,N,8
+17,Hops,BSG,El Dorado Pellets,1,OZ,2.84,0.05,2.98,4,N,18
+18,Hops,BSG,Glacier Pellets,1,OZ,2.61,0.05,2.74,2,N,19
+19,Hops,BSG,Horizon Pellets,1,OZ,2.61,0.05,2.74,6,N,15
+20,Hops,BSG,Idaho 7 Hop Pellets,1,OZ,2.8,0.05,2.94,9,N,18
+21,Hops,BSG,Jarrylo Pellets,1,OZ,2.71,0.05,2.84,4,N,8
+22,Hops,BSG,Sterling Pellets,1,OZ,2.61,0.05,2.74,1,N,18
+23,Hops,BSG,Summit Pellets,1,OZ,2.71,0.05,2.84,6,N,19
+24,Hops,BSG,Warrior Pellets,1,OZ,2.38,0.05,2.49,4,N,17
+25,Hops,BSG,Challenger Hop Pellets,1,OZ,2.65,0.05,2.78,12,N,21
+26,Hops,BSG,East Kent Golding Hop Pellets,1,OZ,3.13,0.05,3.28,1,N,7
+27,Hops,BSG,Fuggle Hop Pellets,1,OZ,2.52,0.05,2.64,3,N,19
+28,Hops,BSG,Hallertau Mittelfruh Hop Pellets,1,OZ,2.42,0.05,2.54,8,N,16
+29,Hops,BSG,Magnum Hop Pellets,1,OZ,2.38,0.05,2.49,9,N,19
+30,Hops,BSG,Northern Brewer Hop Pellets,1,OZ,2.38,0.05,2.49,2,N,10
+31,Hops,BSG,Perle Hop Pellets,1,OZ,2.42,0.05,2.54,2,N,17
+32,Hops,BSG,Phoenix Hop Pellets,1,OZ,3.41,0.05,3.58,11,N,7
+33,Hops,BSG,Saaz Hop Pellets,1,OZ,2.52,0.05,2.64,9,N,12
+34,Hops,BSG,Styrian Golding Hop Pellets,1,OZ,2.38,0.05,2.49,1,N,7
+35,Hops,BSG,Tettnang Hop Pellets,1,OZ,2.52,0.05,2.64,12,N,15
+36,Hops,BSG,Saphir Hop Pellets,1,OZ,2.42,0.05,2.54,9,N,9
+37,Hops,BSG,Hallertau Blanc Hop Pellets,1,OZ,3.32,0.05,3.48,8,N,9
+38,Hops,BSG,Galaxy Hop Pellets,1,OZ,3.79,0.05,3.98,1,N,16
+39,Hops,BSG,Hersbrucker Hop Pellets,1,OZ,2.38,0.05,2.49,2,N,13
+40,Hops,BSG,German Select (Spaltz) Hop Pellets,1,OZ,2.65,0.05,2.78,7,N,17
+41,Hops,BSG,Green Bullet Hop Pellets,1,OZ,2.71,0.05,2.84,4,N,8
+42,Hops,BSG,Tradition Hop Pellets,1,OZ,2.38,0.05,2.49,12,N,13
+43,Hops,BSG,Pacific Jade Hop Pellets,1,OZ,2.8,0.05,2.94,5,N,16
+44,Hops,BSG,Kohatu Hop Pellets,1,OZ,2.85,0.05,2.99,11,N,10
+45,Hops,BSG,Mandarina Bavaria Hop Pellets,1,OZ,3.32,0.05,3.48,12,N,17
+46,Hops,BSG,Huell Melon Hop Pellets,1,OZ,3.32,0.05,3.48,8,N,16
+47,Hops,BSG,Motueka Hop Pellets,1,OZ,2.9,0.05,3.04,5,N,18
+48,Hops,BSG,Nelson Sauvin Hop Pellets,1,OZ,3.09,0.05,3.24,8,N,9
+49,Hops,BSG,Polaris Hop Pellets,1,OZ,2.95,0.05,3.09,7,N,18
+50,Hops,BSG,Rakau Hop Pellets,1,OZ,2.71,0.05,2.84,12,N,16
+51,Hops,BSG,Southern Cross Hop Pellets,1,OZ,2.61,0.05,2.74,9,N,9
+52,Hops,BSG,Summer Hop Pellets,1,OZ,3.04,0.05,3.19,9,N,7
+53,Hops,BSG,Super Alpha (Dr. Rudi) Hop Pellets,1,OZ,2.84,0.05,2.98,10,N,7
+54,Hops,BSG,Target Hop Pellets,1,OZ,2.61,0.05,2.74,10,N,21
+55,Hops,BSG,Waimea Hop Pellets,1,OZ,3.14,0.05,3.29,10,N,10
+56,Hops,BSG,Wakatu Hop Pellets,1,OZ,2.71,0.05,2.84,4,N,17
+57,Base Malt,Weyermann,Abbey Malt,1,LB,2.37,0.05,2.48,1,N,17
+58,Base Malt,Weyermann,Acidulated,1,LB,2.37,0.05,2.48,10,N,18
+59,Base Malt,Weyermann,Beech Smoked,1,LB,2.62,0.05,2.75,2,N,12
+60,Caramel Malt,Weyermann,CARAAMBER,1,LB,2.39,0.05,2.51,3,N,8
+61,Caramel Malt,Weyermann,CARAAROMA,1,LB,2.37,0.05,2.48,4,N,10
+62,Caramel Malt,Weyermann,CARABELGE,1,LB,2.37,0.05,2.48,9,N,21
+63,Caramel Malt,Weyermann,CARABOHEMIAN,1,LB,2.51,0.05,2.63,2,N,20
+64,Caramel Malt,Weyermann,CARAFA Special Type 1 (dehusked),1,LB,2.51,0.05,2.63,12,N,17
+65,Caramel Malt,Weyermann,CARAFA Special Type 2 (dehusked),1,LB,2.51,0.05,2.63,1,N,17
+66,Caramel Malt,Weyermann,CARAFA Special Type 3 (dehusked),1,LB,2.51,0.05,2.63,5,N,21
+67,Caramel Malt,Weyermann,CARAFA Type 1,1,LB,2.42,0.05,2.54,10,N,8
+68,Caramel Malt,Weyermann,CARAFA Type 2,1,LB,2.42,0.05,2.54,11,N,10
+69,Caramel Malt,Weyermann,CARAFA Type 3,1,LB,2.48,0.05,2.6,1,N,12
+70,Caramel Malt,Weyermann,CARAFOAM,1,LB,2.31,0.05,2.42,5,N,19
+71,Caramel Malt,Weyermann,CARAHELL,1,LB,2.19,0.05,2.3,7,N,15
+72,Caramel Malt,Weyermann,CARAMUNICH Type 1,1,LB,2.22,0.05,2.33,5,N,13
+73,Caramel Malt,Weyermann,CARAMUNICH Type 2,1,LB,2.22,0.05,2.33,1,N,8
+74,Caramel Malt,Weyermann,CARAMUNICH Type 3,1,LB,2.22,0.05,2.33,9,N,19
+75,Caramel Malt,Weyermann,CARARED,1,LB,2.37,0.05,2.48,6,N,18
+76,Caramel Malt,Weyermann,CARARYE,1,LB,2.57,0.05,2.69,8,N,13
+77,Caramel Malt,Weyermann,CARAWHEAT,1,LB,2.31,0.05,2.42,8,N,21
+78,Specialty,Weyermann,Chocolate Rye,1,LB,2.45,0.05,2.57,0,Y,15
+79,Specialty,Weyermann,Chocolate Wheat,1,LB,2.34,0.05,2.45,9,N,20
+80,Specialty,Weyermann,Dark Wheat,1,LB,2.14,0.05,2.24,6,N,15
+81,Base Malt,Weyermann,Floor-Malted Bohemian Dark,1,LB,2.37,0.05,2.48,11,N,9
+82,Base Malt,Weyermann,Floor-Malted Bohemian Pilsner,1,LB,2.28,0.05,2.39,5,N,15
+83,Base Malt,Weyermann,Melanoidin,1,LB,2.17,0.05,2.27,6,N,12
+84,Base Malt,Weyermann,Floor-Malted Bohemian Wheat,1,LB,2.42,0.05,2.54,5,N,15
+85,Specialty,Weyermann,Oak Smoked Wheat,1,LB,2.59,0.05,2.72,9,N,14
+86,Base Malt,Weyermann,Munich Type 2,1,LB,2.02,0.05,2.12,5,N,19
+87,Base Malt,Weyermann,Pale Ale,1,LB,2,0.05,2.09,7,N,17
+88,Base Malt,Weyermann,Pale Rye Malt,1,LB,2.6,0.05,2.73,7,N,10
+89,Base Malt,Weyermann,Pale Wheat,1,LB,2.14,0.05,2.24,9,N,18
+90,Base Malt,Weyermann,Pilsner Malt,1,LB,2.43,0.05,2.55,7,N,15
+91,Specialty,Weyermann,Roasted Barley,1,LB,2.39,0.05,2.51,0,Y,14
+92,Base Malt,Weyermann,Vienna,1,LB,2.11,0.05,2.21,5,N,8
+93,Base Malt,Weyermann,Munich Malt Type 1 (Light Munich),1,LB,2.02,0.05,2.12,11,N,21
+94,Base Malt,Rahr,Pale Ale Malt,1,LB,1.99,0.05,2.08,7,N,13
+95,Base Malt,Rahr,Pilsner Malt,1,LB,2.01,0.05,2.11,12,N,8
+96,Base Malt,Rahr,Red Wheat,1,LB,1.82,0.05,1.92,6,N,17
+97,Base Malt,Rahr,Standard 2-Row,1,LB,1.62,0.05,1.71,1,N,14
+98,Base Malt,Rahr,Standard 6-Row,1,LB,1.6,0.05,1.68,8,N,20
+99,Base Malt,Rahr,Unmalted Wheat,1,LB,1.11,0.05,1.17,11,N,14
+100,Base Malt,Rahr,White Wheat,1,LB,1.82,0.05,1.92,7,N,11
+101,Base Malt,Crisp,Amber,1,LB,2.31,0.05,2.42,10,N,13
+102,Base Malt,Crisp,Best Ale,1,LB,1.91,0.05,2,2,N,19
+103,Base Malt,Crisp,Black Malt,1,LB,2.34,0.05,2.45,6,N,12
+104,Base Malt,Crisp,Brown,1,LB,2.31,0.05,2.42,11,N,18
+105,Caramel Malt,Crisp,Caramalt 15L,1,LB,2.31,0.05,2.42,4,N,17
+106,Base Malt,Crisp,Chevallier Heritage,1,LB,2.94,0.05,3.08,9,N,19
+107,Specialty,Crisp,Chocolate,1,LB,2.31,0.05,2.42,12,N,17
+108,Crystal Malt,Crisp,Crystal 60L,1,LB,2.31,0.05,2.42,4,N,19
+109,Crystal Malt,Crisp,Crystal Dark 77L,1,LB,2.31,0.05,2.42,1,N,10
+110,Crystal Malt,Crisp,Crystal Light 45L,1,LB,1.91,0.05,2,11,N,10
+111,Base Malt,Crisp,Gleneagles Premium Peated Malt,1,LB,2.37,0.05,2.48,11,N,19
+112,Base Malt,Crisp,Gleneagles Premium Pot Still Malt,1,LB,2.08,0.05,2.18,11,N,21
+113,Base Malt,Crisp,Maris Otter,1,LB,2.79,0.05,2.93,10,N,20
+114,Base Malt,Crisp,No. 19 Floor-Malted Maris Otter,1,LB,2.22,0.05,2.33,12,N,17
+115,Specialty,Crisp,Pale Chocolate,1,LB,2.34,0.05,2.45,11,N,14
+116,Adjunct,Crisp,Roasted Barley,1,LB,2.34,0.05,2.45,9,N,18
+117,Adjunct,Crisp,Torrefied Wheat,1,LB,2.25,0.05,2.36,10,N,17
+118,Base Malt,Crisp,Wheat Malt,1,LB,1.97,0.05,2.06,1,N,7
+119,Base Malt,Briess,2-Row Brewers Malt,1,LB,1.94,0.05,2.03,3,N,20
+120,Caramel Malt,Briess,2-Row Caramel 10L,1,LB,2.68,0.05,2.81,6,N,9
+121,Caramel Malt,Briess,Caramel 20L,1,LB,2.68,0.05,2.81,5,N,8
+122,Caramel Malt,Briess,2-Row Caramel 40L,1,LB,2.68,0.05,2.81,12,N,15
+123,Caramel Malt,Briess,Caramel 60 Malt,1,LB,2.68,0.05,2.81,4,N,10
+124,Caramel Malt,Briess,2-Row Caramel 120L,1,LB,2.68,0.05,2.81,6,N,21
+125,Specialty,Briess,2-Row Carapils,1,LB,2.71,0.05,2.84,12,N,9
+126,Specialty,Briess,2-Row Chocolate,1,LB,2.79,0.05,2.93,0,Y,16
+127,Base Malt,Briess,Blackprinz Malt,1,LB,2.79,0.05,2.93,7,N,9
+128,Specialty,Briess,Cherrywood-Smoked,1,LB,3.85,0.05,4.04,8,N,20
+129,Base Malt,Briess,Pale Ale,1,LB,2.11,0.05,2.21,1,N,8
+130,Base Malt,Briess,Pilsen,1,LB,2.11,0.05,2.21,5,N,17
+131,Specialty,Briess,Roasted Barley,1,LB,2.65,0.05,2.78,1,N,21
+132,Specialty,Briess,Special Roast,1,LB,2.88,0.05,3.02,0,Y,18
+133,Base Malt,Briess,Victory Malt,1,LB,2.79,0.05,2.93,5,N,10
+134,Specialty,Gambrinus,Gambrinus Honey,1,LB,2.48,0.05,2.6,9,N,16
+135,Base Malt,Simpsons,Finest Maris Otter,1,LB,2.22,0.05,2.33,4,N,17
+136,Base Malt,Simpsons,Finest Pale Ale Golden Promise,1,LB,2.28,0.05,2.39,7,N,8
+137,Crystal Malt,Simpsons,Crystal Rye,1,LB,2.42,0.05,2.54,5,N,21
+138,Specialty,Simpsons,Aromatic Malt,1,LB,2.28,0.05,2.39,3,N,11
+139,Caramel Malt,Simpsons,Caramalt,1,LB,2.34,0.05,2.45,7,N,16
+140,Crystal Malt,Simpsons,Crystal Light,1,LB,2.34,0.05,2.45,11,N,10
+141,Crystal Malt,Simpsons,Crystal Medium,1,LB,2.34,0.05,2.45,4,N,8
+142,Crystal Malt,Simpsons,Crystal Dark,1,LB,2.34,0.05,2.45,12,N,9
+143,Crystal Malt,Simpsons,Crystal Extra Dark,1,LB,2.34,0.05,2.45,8,N,11
+144,Crystal Malt,Simpsons,Double Roasted Crystal,1,LB,2.48,0.05,2.6,9,N,19
+145,Specialty,Simpsons,Chocolate Malt,1,LB,2.42,0.05,2.54,6,N,20
+146,Specialty,Simpsons,Roasted Barley,1,LB,2.34,0.05,2.45,1,N,11
+147,Specialty,Simpsons,Brown (Coffee) Malt,1,LB,2.42,0.05,2.54,11,N,14
+148,Crystal Malt,Simpsons,Golden Naked Oats,1,LB,2.89,0.05,3.03,7,N,20
+149,Specialty,Simpsons,Peated,1,LB,2.85,0.05,2.99,6,N,9
+150,Base Malt,Simpsons,Black Malt,1,LB,2.73,0.05,2.86,3,N,8
+151,Base Malt,Malting Company of Ireland,Irish Stout,1,LB,2.19,0.05,2.3,4,N,11
+152,Base Malt,Malting Company of Ireland,Irish Distillers,1,LB,2.19,0.05,2.3,3,N,15
+153,Base Malt,Malting Company of Ireland,Irish Ale,1,LB,2.19,0.05,2.3,4,N,20
+154,Adjunct,Briess,Flaked Corn,1,LB,2.37,0.05,2.48,5,N,12
+155,Adjunct,Briess,Flaked White Wheat,1,LB,2.22,0.05,2.33,3,N,18
+156,Adjunct,Briess,Flaked Oats,1,LB,1.82,0.05,1.92,3,N,14
+157,Adjunct,Briess,Flaked Rye,1,LB,1.94,0.05,2.03,4,N,13
+158,Adjunct,Briess,Flaked Barley (unmalted),1,LB,1.48,0.05,1.56,10,N,17
+159,Adjunct,Briess,Rice Syrup Solids,1,LB,5.69,0.05,5.98,11,N,15
+160,Adjunct,Briess,Flaked Oats,1,OZ,0.17,0.05,0.18,2,N,20
+161,Base Malt,Weyermann,Pale Ale,1,OZ,0.25,0.05,0.26,5,N,20
+162,Base Malt,Weyermann,Pale Wheat,1,OZ,0.26,0.05,0.27,2,N,20
+163,Base Malt,Weyermann,Dark Wheat,1,OZ,0.26,0.05,0.27,11,N,18
+164,Base Malt,Weyermann,Floor-Malted Bohemian Pilsner,1,OZ,0.28,0.05,0.29,1,N,12
+165,Base Malt,Weyermann,Barke Vienna Malt,1,OZ,0.26,0.05,0.27,11,N,13
+166,Base Malt,Weyermann,Barke Munich,1,OZ,0.26,0.05,0.27,11,N,15
+167,Base Malt,Weyermann,Vienna,1,OZ,0.25,0.05,0.26,11,N,17
+168,Base Malt,Weyermann,Munich Type 2,1,OZ,0.26,0.05,0.27,11,N,19
+169,Base Malt,Weyermann,Melanoidin,1,OZ,0.27,0.05,0.28,10,N,17
+170,Base Malt,Weyermann,Floor-Malted Bohemian Dark,1,OZ,0.29,0.05,0.31,10,N,10
+171,Caramel Malt,Weyermann,CARAMUNICH Type 1,1,OZ,0.28,0.05,0.29,6,N,19
+172,Caramel Malt,Weyermann,CARAMUNICH Type 2,1,OZ,0.28,0.05,0.29,1,N,19
+173,Caramel Malt,Weyermann,CARAMUNICH Type 3,1,OZ,0.28,0.05,0.29,11,N,20
+174,Caramel Malt,Weyermann,CARAWHEAT,1,OZ,0.29,0.05,0.3,8,N,8
+175,Caramel Malt,Weyermann,CARAFA Type 2,1,OZ,0.29,0.05,0.3,1,N,16
+176,Caramel Malt,Weyermann,CARAFA Type 3,1,OZ,0.29,0.05,0.3,10,N,16
+177,Base Malt,Rahr,Standard 6-Row,1,OZ,0.2,0.05,0.21,9,N,21
+178,Base Malt,Rahr,Standard 2-Row,1,OZ,0.21,0.05,0.22,10,N,16
+179,Base Malt,Rahr,White Wheat,1,OZ,0.23,0.05,0.24,9,N,21
+180,Base Malt,Rahr,Red Wheat,1,OZ,0.23,0.05,0.24,10,N,10
+181,Base Malt,Crisp,No. 19 Floor-Malted Maris Otter,1,OZ,0.28,0.05,0.29,6,N,13
+182,Base Malt,Crisp,Best Ale,1,OZ,0.24,0.05,0.25,5,N,7
+183,Base Malt,Crisp,Chevallier Heritage,1,OZ,0.37,0.05,0.39,11,N,21
+184,Crystal Malt,Crisp,Crystal Light 45L,1,OZ,0.24,0.05,0.25,5,N,15
+185,Crystal Malt,Crisp,Crystal Dark 77L,1,OZ,0.29,0.05,0.3,3,N,19
+186,Crystal Malt,Crisp,Crystal 60L,1,OZ,0.29,0.05,0.3,9,N,17
+187,Base Malt,Crisp,Gleneagles Premium Peated Malt,1,OZ,0.29,0.05,0.31,10,N,19
+188,Base Malt,Crisp,Gleneagles Premium Pot Still Malt,1,OZ,0.26,0.05,0.27,6,N,11
+189,Base Malt,Crisp,Brown,1,OZ,0.29,0.05,0.3,7,N,18
+190,Base Malt,Crisp,Amber,1,OZ,0.29,0.05,0.3,11,N,12
+191,Caramel Malt,Crisp,Caramalt 15L,1,OZ,0.29,0.05,0.3,5,N,7
+192,Specialty,Crisp,Chocolate,1,OZ,0.29,0.05,0.3,4,N,21
+193,Specialty,Crisp,Pale Chocolate,1,OZ,0.29,0.05,0.31,1,N,8
+194,Base Malt,Crisp,Black Malt,1,OZ,0.29,0.05,0.31,6,N,13
+195,Adjunct,Crisp,Roasted Barley,1,OZ,0.29,0.05,0.31,2,N,8
+196,Adjunct,Crisp,Torrefied Wheat,1,OZ,0.29,0.05,0.3,3,N,13
+197,Base Malt,Briess,2-Row Brewers Malt,1,OZ,0.25,0.05,0.26,2,N,18
+198,Base Malt,Briess,Pale Ale,1,OZ,0.27,0.05,0.28,7,N,21
+199,Base Malt,Briess,Pilsen,1,OZ,0.27,0.05,0.28,11,N,12
+200,Specialty,Briess,2-Row Carapils,1,OZ,0.34,0.05,0.36,1,N,12
+201,Caramel Malt,Briess,2-Row Caramel 10L,1,OZ,0.33,0.05,0.35,6,N,9
+202,Caramel Malt,Briess,Caramel 20L,1,OZ,0.33,0.05,0.35,10,N,7
+203,Caramel Malt,Briess,2-Row Caramel 40L,1,OZ,0.33,0.05,0.35,3,N,17
+204,Caramel Malt,Briess,2-Row Caramel 120L,1,OZ,0.33,0.05,0.35,1,N,20
+205,Specialty,Briess,Special Roast,1,OZ,0.36,0.05,0.38,9,N,11
+206,Specialty,Briess,2-Row Chocolate,1,OZ,0.35,0.05,0.37,10,N,9
+207,Specialty,Briess,Roasted Barley,1,OZ,0.33,0.05,0.35,2,N,15
+208,Specialty,Briess,Cherrywood-Smoked,1,OZ,0.48,0.05,0.51,12,N,14
+209,Specialty,Gambrinus,Gambrinus Honey,1,OZ,0.31,0.05,0.33,5,N,13
+210,Base Malt,Simpsons,Finest Maris Otter,1,OZ,0.28,0.05,0.29,2,N,12
+211,Base Malt,Simpsons,Finest Pale Ale Golden Promise,1,OZ,0.29,0.05,0.3,8,N,12
+212,Crystal Malt,Simpsons,Crystal Rye,1,OZ,0.3,0.05,0.32,10,N,20
+213,Specialty,Simpsons,Aromatic Malt,1,OZ,0.29,0.05,0.3,6,N,13
+214,Caramel Malt,Simpsons,Caramalt,1,OZ,0.29,0.05,0.31,12,N,16
+215,Crystal Malt,Simpsons,Crystal Light,1,OZ,0.29,0.05,0.31,10,N,13
+216,Crystal Malt,Simpsons,Crystal Medium,1,OZ,0.29,0.05,0.31,10,N,17
+217,Crystal Malt,Simpsons,Crystal Dark,1,OZ,0.29,0.05,0.31,6,N,8
+218,Crystal Malt,Simpsons,Crystal Extra Dark,1,OZ,0.29,0.05,0.31,1,N,10
+219,Crystal Malt,Simpsons,Double Roasted Crystal,1,OZ,0.31,0.05,0.33,10,N,15
+220,Specialty,Simpsons,Chocolate Malt,1,OZ,0.3,0.05,0.32,2,N,9
+221,Specialty,Simpsons,Roasted Barley,1,OZ,0.29,0.05,0.31,9,N,15
+222,Specialty,Simpsons,Brown (Coffee) Malt,1,OZ,0.3,0.05,0.32,9,N,20
+223,Crystal Malt,Simpsons,Golden Naked Oats,1,OZ,0.36,0.05,0.38,11,N,20
+224,Specialty,Simpsons,Peated,1,OZ,0.36,0.05,0.38,7,N,13
+225,Base Malt,Malting Company of Ireland,Irish Stout,1,OZ,0.23,0.05,0.24,3,N,9
+226,Base Malt,Malting Company of Ireland,Irish Distillers,1,OZ,0.23,0.05,0.24,4,N,19
+227,Base Malt,Malting Company of Ireland,Irish Ale,1,OZ,0.23,0.05,0.24,11,N,21
+228,Dry Malt Extract,Briess,DME Pilsen Light,1,LB,5.69,0.05,5.98,4,N,14
+229,Dry Malt Extract,Briess,DME Golden Light,1,LB,5.69,0.05,5.98,3,N,11
+230,Dry Malt Extract,Briess,DME Sparkling Amber,1,LB,5.69,0.05,5.98,1,N,20
+231,Dry Malt Extract,Briess,DME Traditional Dark,1,LB,5.69,0.05,5.98,5,N,10
+232,Dry Malt Extract,Briess,DME Bavarian Wheat,1,LB,5.69,0.05,5.98,5,N,12
+233,Dry Malt Extract,Briess,DME Pilsen Light,3,LB,13.29,0.05,13.96,4,N,21
+234,Dry Malt Extract,Briess,DME Sparkling Amber,3,LB,13.29,0.05,13.96,9,N,10
+235,Dry Malt Extract,Briess,DME Golden Light,3,LB,13.29,0.05,13.96,0,Y,11
+236,Dry Malt Extract,Briess,DME Starter Kit,2,L,2.85,0.05,2.99,7,N,20
+237,Concentrated Brewers Wort,Briess,CBW Pilsen Light,3.3,LB,12.34,0.05,12.96,0,Y,13
+238,Concentrated Brewers Wort,Briess,CBW Golden Light,3.3,LB,12.34,0.05,12.96,7,N,13
+239,Concentrated Brewers Wort,Briess,CBW Munich,3.3,LB,12.34,0.05,12.96,2,N,19
+240,Concentrated Brewers Wort,Briess,CBW Sparkling Amber,3.3,LB,12.34,0.05,12.96,2,N,16
+241,Concentrated Brewers Wort,Briess,CBW Traditional Dark,3.3,LB,12.34,0.05,12.96,4,N,10
+242,Concentrated Brewers Wort,Briess,CBW Bavarian Wheat,3.3,LB,12.34,0.05,12.96,12,N,16
+243,Concentrated Brewers Wort,Briess,BriesSweet White Sorghum Syrup,3.3,LB,12.83,0.05,13.47,8,N,16
+244,Sugar,LD Carlson,Priming Sugar,5,OZ,2.14,0.05,2.24,8,N,13
+245,Sugar,Coopers,Carb Tabs,1,EA,5.69,0.05,5.98,11,N,11
+246,Sugar,LD Carlson,Corn Sugar (Dextrose),1,LB,3.09,0.05,3.24,10,N,11
+247,Sugar,LD Carlson,Corn Sugar (dextrose),4,LB,8.54,0.05,8.97,0,Y,13
+248,Sugar,Brewcraft,Brewers Crystals,1,LB,3.79,0.05,3.98,8,N,10
+249,Sugar,Sugar in the Raw,Turbinado (Raw Sugar),2,LB,4.74,0.05,4.98,2,N,21
+250,Sugar,LD Carlson,Lactose,1,LB,5.22,0.05,5.48,4,N,19
+251,Sugar,LD Carlson,Maltodextrin,8,OZ,1.52,0.05,1.6,10,N,18
+252,Sugar,LD Carlson,Lactose,4,LB,16.87,0.05,17.72,3,N,18
+253,Sugar,LD Carlson,Maltodextrin,1,LB,3.79,0.05,3.98,5,N,10
+254,Sugar,LD Carlson,Maltodextrin,5,LB,9.49,0.05,9.97,11,N,18
+255,Dry Yeast,Fermentis,Safale US-05 American Ale Dry Yeast,11.5,g,4.74,0.05,4.98,7,N,21
+256,Dry Yeast,Fermentis,Safale S-04 English Ale Dry Yeast,11.5,g,4.74,0.05,4.98,5,N,16
+257,Dry Yeast,Fermentis,Safale K-97 German Ale Dry Yeast,11.5,g,4.46,0.05,4.68,9,N,10
+258,Dry Yeast,Fermentis,SafLager S-23 German Lager Dry Yeast,11.5,g,6.36,0.05,6.67,9,N,9
+259,Dry Yeast,Fermentis,SafLager W-34/70 German Lager Dry Yeast,11.5,g,7.59,0.05,7.97,5,N,18
+260,Dry Yeast,Fermentis,SafLager S-189 Lager Dry Yeast,11.5,g,7.59,0.05,7.97,8,N,14
+261,Dry Yeast,Fermentis,Safale S-33 Ale Dry Yeast,11.5,g,3.79,0.05,3.98,10,N,20
+262,Dry Yeast,Fermentis,Safale T-58 Ale Dry Yeast,11.5,g,3.79,0.05,3.98,9,N,21
+263,Dry Yeast,Fermentis,Safale WB-06 German Wheat Beer Dry Yeast,11.5,g,6.64,0.05,6.97,6,N,10
+264,Dry Yeast,Fermentis,Safale BE-256 Belgian Dry Yeast,11.5,g,7.59,0.05,7.97,4,N,8
+265,Dry Yeast,Fermentis,SafCider AB-1 Dry Yeast,5,g,4.74,0.05,4.98,6,N,13
+266,Dry Yeast,Lallemand,Nottingham Yeast,11,g,5.03,0.05,5.28,6,N,15
+267,Dry Yeast,Lallemand,Belgian Wit,11,g,6.45,0.05,6.77,11,N,8
+268,Dry Yeast,Lallemand,Belle Saison Ale Yeast,11,g,6.36,0.05,6.67,9,N,21
+269,Dry Yeast,Lallemand,Munich Classic Wheat Beer Yeast,11,g,6.45,0.05,6.77,6,N,20
+270,Dry Yeast,Lallemand,Windsor Yeast,11,g,5.31,0.05,5.58,2,N,14
+271,Dry Yeast,Lallemand,London ESB Yeast,11,g,5.31,0.05,5.58,6,N,12
+272,Dry Yeast,Alotec,48-Hour Turbo Yeast,135,g,6.64,0.05,6.97,8,N,17
+273,Dry Yeast,Alotec,24-Hour Turbo Yeast,135,g,7.78,0.05,8.17,6,N,13
+274,Dry Yeast,Red Star,Distiller's Active Dry Yeast (DADY),1,LB,12.83,0.05,13.47,6,N,8
+275,Dry Yeast,Diamond,Diamond Lager Yeast,11,g,6.36,0.05,6.67,3,N,9
+276,Dry Yeast,Lallemand,CBC-1 Cask And Bottle Conditioned Yeast,11,g,5.22,0.05,5.48,5,N,14
+277,Dry Yeast,Lallemand,Abbaye Belgian Ale Yeast,11,g,6.36,0.05,6.67,11,N,9
+278,Dry Yeast,Red Star,Premier Blanc Champagne & Wine Yeast,5,g,2.56,0.05,2.68,1,N,19
+279,Dry Yeast,Red Star,Premier Classique (Montrachet) Wine Yeast,5,g,2.56,0.05,2.68,1,N,19
+280,Dry Yeast,Red Star,Cote des Blanc Wine Yeast,5,g,2.56,0.05,2.68,9,N,8
+281,Dry Yeast,Red Star,Premier Cuvee Wine Yeast,5,g,2.56,0.05,2.68,5,N,14
+282,Dry Yeast,Lalvin,D47 ICV Wine Yeast,5,g,2.56,0.05,2.68,6,N,21
+283,Dry Yeast,Lallemand,BRY-97 Ale Yeast,11,g,5.22,0.05,5.48,4,N,20
+284,Dry Yeast,Red Star,Premier Rouge (Pasteur Red) Wine Yeast,5,g,2.56,0.05,2.68,9,N,20
+285,Dry Yeast,Lalvin,EC-1118 Dry Wine Yeast,5,g,2.56,0.05,2.68,8,N,19
+286,Dry Yeast,Lallemand,Voss Kveik Ale Yeast ,11,g,6.36,0.05,6.67,1,N,8
+287,Dry Yeast,Lallemand,Koln Kolsch Style Ale Dry Yeast,11,g,6.36,0.05,6.67,4,N,8
+288,Dry Yeast,Lallemand,New England Ale Dry Yeast,11,g,6.36,0.05,6.67,11,N,13
+289,Dry Yeast,Lalvin,71B-1122 Wine Yeast,5,g,2.56,0.05,2.68,2,N,10
+290,Dry Yeast,Lallemand,Philly Sour,11,g,6.45,0.05,6.77,3,N,12
+291,Dry Yeast,Lallemand,Verdant IPA Dry Yeast,11,g,6.36,0.05,6.67,9,N,13
+292,Dry Yeast,Lalvin,K1 V1116 Dry Yeast,5,g,2.56,0.05,2.68,12,N,20
+293,Liquid Yeast,White Labs,WLP001 California Ale Yeast,1,EA,8.07,0.05,8.47,6,N,21
+294,Liquid Yeast,White Labs,WLP004 Irish Ale Yeast,1,EA,8.54,0.05,8.97,11,N,10
+295,Liquid Yeast,White Labs,WLP007 Dry English Ale Yeast,1,EA,8.07,0.05,8.47,10,N,7
+296,Liquid Yeast,White Labs,WLP008 East Coast Ale Yeast,1,EA,8.07,0.05,8.47,2,N,8
+297,Liquid Yeast,White Labs,WLP013 London Ale Yeast,1,EA,8.07,0.05,8.47,1,N,11
+298,Liquid Yeast,White Labs,WLP029 German Ale/Kolsch Yeast,1,EA,8.07,0.05,8.47,6,N,17
+299,Liquid Yeast,White Labs,WLP036 Dusseldorf Alt Ale Yeast,1,EA,8.54,0.05,8.97,0,Y,20
+300,Liquid Yeast,White Labs,WLP041 Pacific Ale Yeast,1,EA,8.07,0.05,8.47,10,N,9
+301,Liquid Yeast,White Labs,WLP051 California Ale V,1,EA,8.54,0.05,8.97,7,N,8
+302,Liquid Yeast,White Labs,WLP060 American Ale Blend,1,EA,8.54,0.05,8.97,6,N,21
+303,Liquid Yeast,White Labs,WLP067 Coastal Haze Ale Yeast,1,EA,8.54,0.05,8.97,11,N,20
+304,Liquid Yeast,White Labs,Neutral Grain Yeast,1,EA,8.54,0.05,8.97,9,N,17
+305,Liquid Yeast,White Labs,WLP090 San Diego Super Ale Yeast,1,EA,8.07,0.05,8.47,0,Y,9
+306,Liquid Yeast,White Labs,WLP099 Super High Gravity Yeast,1,EA,8.54,0.05,8.97,3,N,19
+307,Liquid Yeast,White Labs,WLP300 Hefeweizen Ale Yeast,1,EA,8.07,0.05,8.47,9,N,21
+308,Liquid Yeast,White Labs,WLP320 American Hefe Ale Yeast,1,EA,8.54,0.05,8.97,10,N,19
+309,Liquid Yeast,White Labs,WLP351 Bavarian Weizen Ale Yeast,1,EA,8.54,0.05,8.97,12,N,11
+310,Liquid Yeast,White Labs,WLP380 Hefeweizen IV Ale Yeast,1,EA,8.54,0.05,8.97,1,N,13
+311,Liquid Yeast,White Labs,WLP410 Belgian Wit II Ale Yeast,1,EA,8.54,0.05,8.97,5,N,15
+312,Liquid Yeast,White Labs,WLP500 Monastery Ale Yeast,1,EA,8.07,0.05,8.47,2,N,11
+313,Liquid Yeast,White Labs,WLP510 Bastogne Belgian Ale Yeast,1,EA,8.54,0.05,8.97,8,N,14
+314,Liquid Yeast,White Labs,WLP540 Abbey IV Ale Yeast,1,EA,8.54,0.05,8.97,4,N,10
+315,Liquid Yeast,White Labs,WLP550 Belgian Ale,1,EA,8.07,0.05,8.47,3,N,19
+316,Liquid Yeast,White Labs,WLP564 Leewenhoek Saison Blend,1,EA,8.54,0.05,8.97,6,N,18
+317,Liquid Yeast,White Labs,WLP565 Belgian Saison I Ale,1,EA,8.54,0.05,8.97,5,N,21
+318,Liquid Yeast,White Labs,WLP566 Belgian Saison II Ale Yeast,1,EA,8.07,0.05,8.47,6,N,21
+319,Liquid Yeast,White Labs,WLP568 Saison Yeast Blend,1,EA,8.54,0.05,8.97,7,N,8
+320,Liquid Yeast,White Labs,WLP570 Belgian Golden Ale Yeast,1,EA,8.07,0.05,8.47,8,N,12
+321,Liquid Yeast,White Labs,WLP575 Belgian-Style Ale Yeast Blend,1,EA,8.54,0.05,8.97,0,Y,20
+322,Liquid Yeast,White Labs,WLP630 Berliner Weisse Blend,1,EA,8.54,0.05,8.97,0,Y,9
+323,Liquid Yeast,White Labs,"WLP644 Saccharomyces ""bruxellensis"" Trios",1,EA,8.54,0.05,8.97,7,N,10
+324,Liquid Yeast,White Labs,WLP648 Brettanomyces bruxellensis Trois Vrai,1,EA,8.54,0.05,8.97,6,N,20
+325,Liquid Yeast,White Labs,WLP650 Brettanomyces Bruzellensis,1,EA,8.54,0.05,8.97,3,N,10
+326,Liquid Yeast,White Labs,WLP653 Brettanomyces Lambicus,1,EA,8.54,0.05,8.97,11,N,12
+327,Liquid Yeast,White Labs,WLP645 Brettanomyces Claussenii,1,EA,8.54,0.05,8.97,6,N,13
+328,Liquid Yeast,White Labs,WLP655 Belgian Sour 1 Mix,1,EA,8.54,0.05,8.97,0,Y,17
+329,Liquid Yeast,White Labs,WLP661 Pediococcus damnosus,1,EA,8.54,0.05,8.97,4,N,18
+330,Liquid Yeast,White Labs,WLP665 Flemish Ale Blend,1,EA,8.54,0.05,8.97,4,N,11
+331,Liquid Yeast,White Labs,WLP670 Farmhouse Blend,1,EA,8.54,0.05,8.97,3,N,9
+332,Liquid Yeast,White Labs,WLP672 Lactobacillus Brevis,1,EA,8.54,0.05,8.97,9,N,7
+333,Liquid Yeast,White Labs,WLP675 Malolactic Cultures,1,EA,8.54,0.05,8.97,11,N,11
+334,Liquid Yeast,White Labs,WLP677 Lactobacillus delbrueckii,1,EA,8.54,0.05,8.97,3,N,9
+335,Liquid Yeast,White Labs,WLP705 Sake Yeast,1,EA,8.54,0.05,8.97,5,N,13
+336,Liquid Yeast,White Labs,WLP800 Pilsner Lager Yeast,1,EA,8.07,0.05,8.47,4,N,11
+337,Liquid Yeast,White Labs,WLP802 Czech Budejovice Lager Yeast,1,EA,8.54,0.05,8.97,12,N,12
+338,Liquid Yeast,White Labs,WLP820 Oktoberfest Lager Yeast,1,EA,8.07,0.05,8.47,11,N,11
+339,Liquid Yeast,White Labs,WLP830 German Lager Yeast,1,EA,8.54,0.05,8.97,10,N,16
+340,Liquid Yeast,White Labs,WLP833 German Bock Lager Yeast,1,EA,8.07,0.05,8.47,10,N,14
+341,Liquid Yeast,White Labs,WLP838 Souther German Lager Yeast,1,EA,8.54,0.05,8.97,4,N,13
+342,Liquid Yeast,White Labs,WLP850 Copenhagen Lager Yeast,1,EA,8.54,0.05,8.97,2,N,7
+343,Liquid Yeast,White Labs,WLP840 American Lager Yeast,1,EA,8.54,0.05,8.97,10,N,16
+344,Liquid Yeast,White Labs,WLP862 Cry Havoc Lager Yeast,1,EA,8.54,0.05,8.97,0,Y,12
+345,Liquid Yeast,White Labs,WLP885 Zurich Lager Yeast,1,EA,8.54,0.05,8.97,9,N,19
+346,Liquid Yeast,White Labs,WLP920 Old Bavarian Lager Yeast,1,EA,8.54,0.05,8.97,1,N,8
+347,Liquid Yeast,White Labs,WLP925 High Pressure Lager Yeast,1,EA,8.54,0.05,8.97,6,N,8
+348,Liquid Yeast,White Labs,WLP940 Mexican Lager Yeast,1,EA,8.54,0.05,8.97,1,N,19
+349,Liquid Yeast,Wyeast,1007 German Ale,1,EA,9.21,0.05,9.67,5,N,10
+350,Liquid Yeast,Wyeast,1010 American Wheat,1,EA,9.21,0.05,9.67,8,N,17
+351,Liquid Yeast,Wyeast,1028 London Ale,1,EA,9.21,0.05,9.67,5,N,20
+352,Liquid Yeast,Wyeast,1056 American Ale,1,EA,9.21,0.05,9.67,5,N,18
+353,Liquid Yeast,Wyeast,1084 Irish Ale,1,EA,9.21,0.05,9.67,8,N,18
+354,Liquid Yeast,Wyeast,1098 British Ale,1,EA,9.21,0.05,9.67,3,N,15
+355,Liquid Yeast,Wyeast,1099 Whitbread Ale,1,EA,9.21,0.05,9.67,3,N,15
+356,Liquid Yeast,Wyeast,1187 Ringwood Ale,1,EA,9.21,0.05,9.67,6,N,12
+357,Liquid Yeast,Wyeast,1214 Belgian Abbey,1,EA,9.21,0.05,9.67,9,N,10
+358,Liquid Yeast,Wyeast,1272 American Ale II,1,EA,9.21,0.05,9.67,11,N,8
+359,Liquid Yeast,Wyeast,1275 Thames Valley Ale,1,EA,9.21,0.05,9.67,4,N,14
+360,Liquid Yeast,Wyeast,1332 Northwest Ale,1,EA,9.21,0.05,9.67,12,N,19
+361,Liquid Yeast,Wyeast,1335 British Ale II,1,EA,9.21,0.05,9.67,5,N,10
+362,Liquid Yeast,Wyeast,1388 Belgian Strong Ale,1,EA,9.21,0.05,9.67,12,N,19
+363,Liquid Yeast,Wyeast,1450 Denny's Favorite 50,1,EA,9.21,0.05,9.67,7,N,12
+364,Liquid Yeast,Wyeast,1469 West Yorkshire Ale,1,EA,9.21,0.05,9.67,1,N,9
+365,Liquid Yeast,Wyeast,1728 Scottish Ale,1,EA,9.21,0.05,9.67,5,N,10
+366,Liquid Yeast,Wyeast,1762 Belgian Abbey Ale II,1,EA,9.21,0.05,9.67,2,N,21
+367,Liquid Yeast,Wyeast,1968 London ESB,1,EA,9.21,0.05,9.67,9,N,16
+368,Liquid Yeast,Wyeast,2007 Pilsen Lager,1,EA,9.21,0.05,9.67,5,N,21
+369,Liquid Yeast,Wyeast,2112 California Lager,1,EA,9.21,0.05,9.67,3,N,18
+370,Liquid Yeast,Wyeast,2124 Bohemian Lager,1,EA,9.21,0.05,9.67,10,N,13
+371,Liquid Yeast,Wyeast,2206 Bavarian Lager,1,EA,9.21,0.05,9.67,5,N,9
+372,Liquid Yeast,Wyeast,2278 Czech Pils,1,EA,9.21,0.05,9.67,5,N,12
+373,Liquid Yeast,Wyeast,2308 Munich Lager,1,EA,9.21,0.05,9.67,10,N,19
+374,Liquid Yeast,Wyeast,2565 Kolsch,1,EA,9.21,0.05,9.67,0,Y,19
+375,Liquid Yeast,Wyeast,2633 Octoberfest Lager Blend,1,EA,9.21,0.05,9.67,5,N,21
+376,Liquid Yeast,Wyeast,3056 Bavarian Wheat Blend,1,EA,9.21,0.05,9.67,5,N,10
+377,Liquid Yeast,Wyeast,3068 Weihenstephan Wheat,1,EA,9.21,0.05,9.67,4,N,17
+378,Liquid Yeast,Wyeast,3278 Belgian Lambic Blend,1,EA,9.21,0.05,9.67,3,N,12
+379,Liquid Yeast,Wyeast,3522 Belgian Ardennes,1,EA,9.21,0.05,9.67,9,N,9
+380,Liquid Yeast,Wyeast,3638 Bavarian Wheat,1,EA,9.21,0.05,9.67,3,N,7
+381,Liquid Yeast,Wyeast,3711 French Saison,1,EA,9.21,0.05,9.67,10,N,12
+382,Liquid Yeast,Wyeast,3724 Belgian Saison,1,EA,9.21,0.05,9.67,2,N,9
+383,Liquid Yeast,Wyeast,3726 Farmhouse Ale,1,EA,9.21,0.05,9.67,8,N,19
+384,Liquid Yeast,Wyeast,3763 Roeselare Blend,1,EA,9.21,0.05,9.67,12,N,15
+385,Liquid Yeast,Wyeast,3787 Trappist High Gravity,1,EA,9.21,0.05,9.67,11,N,12
+386,Liquid Yeast,Wyeast,3944 Belgian Witbier,1,EA,9.21,0.05,9.67,8,N,17
+387,Liquid Yeast,Wyeast,4007 Malolactic Blend,1,EA,9.21,0.05,9.67,12,N,8
+388,Liquid Yeast,Wyeast,4221 EY2D Malolactic,1,EA,9.21,0.05,9.67,7,N,13
+389,Liquid Yeast,Wyeast,4766 Cider,1,EA,9.21,0.05,9.67,8,N,16
+390,Liquid Yeast,Wyeast,5112 Brett. Bruxellensis,1,EA,13.29,0.05,13.96,8,N,10
+391,Liquid Yeast,Wyeast,5335 Lactobacillus,1,EA,13.29,0.05,13.96,11,N,9
+392,Liquid Yeast,Wyeast,5526 Brett. Lambicus,1,EA,13.29,0.05,13.96,7,N,18
+393,Liquid Yeast,Wyeast,5733 Pediococcus,1,EA,13.29,0.05,13.96,7,N,7
+394,Liquid Yeast,Wyeast,NB5001_5 Wyeast Beer Nutrient,1,EA,3.79,0.05,3.98,7,N,10
+395,Liquid Yeast,Omega Yeast,OYL-004 West Coast Ale I,1,EA,10.44,0.05,10.96,2,N,12
+396,Liquid Yeast,Omega Yeast,OYL-006 British Ale I,1,EA,10.44,0.05,10.96,0,Y,8
+397,Liquid Yeast,Omega Yeast,OYL-011 British Ale V,1,EA,10.44,0.05,10.96,6,N,9
+398,Liquid Yeast,Omega Yeast,OYL-015 Scottish Ale,1,EA,10.44,0.05,10.96,2,N,10
+399,Liquid Yeast,Omega Yeast,Hefeweizen Ale I,1,EA,10.44,0.05,10.96,12,N,18
+400,Liquid Yeast,Omega Yeast,OYL-024 Belgian Ale A,1,EA,10.44,0.05,10.96,10,N,16
+401,Liquid Yeast,Omega Yeast,Jovaru Lithuanian Farmhouse,1,EA,10.44,0.05,10.96,9,N,9
+402,Liquid Yeast,Omega Yeast,OYL-044 Kolsch II,1,EA,10.44,0.05,10.96,12,N,10
+403,Liquid Yeast,Omega Yeast,OYL-052 DIPA Ale,1,EA,10.44,0.05,10.96,10,N,18
+404,Liquid Yeast,Omega Yeast,HotHead® Ale,1,EA,10.44,0.05,10.96,8,N,16
+405,Liquid Yeast,Omega Yeast,OYL-061 Voss Kveik,1,EA,10.44,0.05,10.96,6,N,18
+406,Liquid Yeast,Omega Yeast,Lutra Kveik,1,EA,10.44,0.05,10.96,4,N,20
+407,Liquid Yeast,Omega Yeast,Espe Kveik,1,EA,10.44,0.05,10.96,10,N,18
+408,Liquid Yeast,Omega Yeast,OYL-091 Hornindal Kveik,1,EA,10.44,0.05,10.96,1,N,14
+409,Liquid Yeast,Omega Yeast,Bayern Lager,1,EA,10.44,0.05,10.96,6,N,9
+410,Liquid Yeast,Omega Yeast,OYL-200 Tropical IPA,1,EA,10.44,0.05,10.96,8,N,15
+411,Liquid Yeast,Omega Yeast,Bananza Ale,1,EA,10.44,0.05,10.96,5,N,7
+412,Liquid Yeast,Omega Yeast,Sundew Ale,1,EA,10.44,0.05,10.96,12,N,18
+413,Liquid Yeast,Omega Yeast,Saisonstein's Monster,1,EA,10.44,0.05,10.96,11,N,12
+414,Liquid Yeast,Omega Yeast,Gulo Ale,1,EA,10.44,0.05,10.96,2,N,8
+415,Liquid Yeast,Omega Yeast,Lactobacillus Blend,1,EA,13.29,0.05,13.96,7,N,19
+416,Liquid Yeast,Imperial Yeast,Barbarian,1,EA,11.39,0.05,11.96,3,N,11
+417,Liquid Yeast,Imperial Yeast,Dry Hop,1,EA,11.39,0.05,11.96,10,N,7
+418,Liquid Yeast,Imperial Yeast,A38 Juice,1,EA,11.39,0.05,11.96,12,N,12
+419,Nutrients,Fermax,FERMAX Yeast Nutrient,4,OZ,3.32,0.05,3.48,6,N,15
+420,Nutrients,White Labs,Nutrient,1,OZ,7.59,0.05,7.97,5,N,18
+421,Nutrients,White Labs,Servomyces Blister Pack,6,EA,11.39,0.05,11.96,6,N,20
+422,Nutrients,White Labs,Ultra-Ferm Homebrew,10,mL,6.64,0.05,6.97,0,Y,13
+423,Nutrients,Wyeast,NB5001_5 Wyeast Beer Nutrient,1.5,OZ,3.79,0.05,3.98,7,N,9
+424,Nutrients,BSG,Startup,30,g,5.22,0.05,5.48,7,N,20
+425,Nutrients,Lallemand,Go-Ferm Protect,10,g,2.84,0.05,2.98,8,N,19
+426,Nutrients,Lallemand,Fermaid K,1,OZ,3.03,0.05,3.18,6,N,14
+427,Nutrients,Lallemand,Fermaid K,8,g,1.7,0.05,1.79,1,N,8
+428,Nutrients,Lallemand,Fermaid O Yeast Nutrient,12,g,3.32,0.05,3.48,7,N,17
+429,Spices,LD Carlson,Bitter Orange Peel,1,OZ,2.84,0.05,2.98,1,N,19
+430,Spices,LD Carlson,Sweet Orange Peel,1,OZ,2.13,0.05,2.23,6,N,7
+431,Spices,LD Carlson,Lemon Peel,1,OZ,2.27,0.05,2.38,2,N,7
+432,Spices,LD Carlson,Blue Juniper Berries (whole),1,OZ,3.13,0.05,3.28,2,N,21
+433,Spices,LD Carlson,Whole Cardamom,1,OZ,5.69,0.05,5.98,5,N,9
+434,Spices,LD Carlson,Coriander Seed - Whole,1,OZ,2.25,0.05,2.36,6,N,13
+435,Spices,LD Carlson,Vanilla Bean 1 Whole Bean,1,EA,7.59,0.05,7.97,0,Y,21
+436,Spices,LD Carlson,Star Anise - Whole,1,OZ,2.84,0.05,2.98,12,N,12
+437,Spices,LD Carlson,Licorice Root,1,OZ,1.8,0.05,1.89,0,Y,15
+438,Spices,LD Carlson,Paradise Seed,0.5,OZ,2.84,0.05,2.98,8,N,15
+439,Spices,LD Carlson,Cacao Nibs,4,OZ,6.64,0.05,6.97,7,N,13
+440,Spices,LD Carlson,Rose Hips,3,OZ,3.79,0.05,3.98,0,Y,13
+441,Flavorings,BSG,Apricot Flavoring,4,OZ,6.64,0.05,6.97,11,N,19
+442,Flavorings,BSG,Blackberry Flavoring,4,OZ,6.64,0.05,6.97,0,Y,21
+443,Flavorings,BSG,Blueberry Flavoring,4,OZ,6.64,0.05,6.97,8,N,20
+444,Flavorings,BSG,Cherry Flavoring,4,OZ,6.64,0.05,6.97,6,N,9
+445,Flavorings,BSG,Peach Flavoring,4,OZ,6.64,0.05,6.97,4,N,8
+446,Flavorings,BSG,Raspberry Flavoring,4,OZ,6.64,0.05,6.97,2,N,14
+447,Flavorings,BSG,Strawberry Flavoring,4,OZ,6.64,0.05,6.97,11,N,14
+448,Flavorings,BSG,Pineapple Flavoring,4,OZ,6.64,0.05,6.97,9,N,19
+449,Flavorings,BSG,Mango Flavoring,4,OZ,6.64,0.05,6.97,10,N,14
+450,Flavorings,Vintner's Harvest,Blood Orange Puree,3,LB,20.89,0.05,21.94,8,N,9
+451,Flavorings,Vintner's Harvest,Grapefruit Puree,3,LB,20.89,0.05,21.94,11,N,17
+452,Flavorings,Vintner's Harvest,Tart Cherry Puree,3,LB,23.74,0.05,24.93,12,N,14
+453,Flavorings,Vintner's Harvest,Boysenberry Puree,3,LB,25.64,0.05,26.92,9,N,8
+454,Flavorings,Vintner's Harvest,Black Currant Puree,3,LB,28.49,0.05,29.92,0,Y,17
+455,Flavorings,Vintner's Harvest,Strawberry Puree,3,LB,25.64,0.05,26.92,4,N,17
+456,Flavorings,Vintner's Harvest,Cranberry Puree,3,LB,17.09,0.05,17.95,5,N,14
+457,Flavorings,Vintner's Harvest,Plum Puree,3,LB,15.19,0.05,15.95,5,N,15
+458,Flavorings,Vintner's Harvest,Raspberry Puree,3,LB,30.39,0.05,31.91,11,N,13
+459,Flavorings,Vintner's Harvest,Sweet Cherry Puree,3,LB,20.89,0.05,21.94,6,N,12
+460,Flavorings,Vintner's Harvest,Blueberry Puree,3,LB,25.64,0.05,26.92,8,N,18
+461,Flavorings,Vintner's Harvest,Blackberry Puree,3,LB,25.64,0.05,26.92,12,N,14
+462,Flavorings,Vintner's Harvest,Apricot Puree,3,LB,23.74,0.05,24.93,9,N,11
+463,Flavorings,Vintner's Harvest,Peach Puree,3,LB,23.74,0.05,24.93,1,N,14
+464,Flavorings,Vintner's Harvest,Mango Puree,3,LB,26.59,0.05,27.92,8,N,17
+465,Flavorings,Vintner's Harvest,Passionfruit Puree,3,LB,28.49,0.05,29.92,10,N,19
+466,Flavorings,Vintner's Harvest,Pineapple Puree,3,LB,23.74,0.05,24.93,10,N,14
+467,Flavorings,BSG,Oak Chips Light Toast American,4,OZ,2,0.05,2.09,11,N,20
+468,Flavorings,BSG,Oak Chips Dark Toast American,4,OZ,2,0.05,2.09,9,N,11
+469,Flavorings,BSG,Hungarian Oak Shavings Med toast,4,OZ,4.17,0.05,4.38,6,N,16
+470,Flavorings,BSG,Hungarian Oak Cubes Med Toast,3,OZ,4.74,0.05,4.98,0,Y,14
+471,Flavorings,BSG,French Oak Chips Medium Toast,4,OZ,3.04,0.05,3.19,8,N,16
+472,Additives,BSG,Isinglass Liquid,2,OZ,1.92,0.05,2.01,9,N,8
+473,Additives,BSG,Kerry Whirlfloc T Tablets,10,EA,2.65,0.05,2.78,3,N,14
+474,Additives,BSG,Kerry Biofine,0.5,OZ,2.74,0.05,2.87,1,N,15
+475,Additives,BSG,Gelatin,2,OZ,2.55,0.05,2.67,9,N,20
+476,Additives,BSG,Irish Moss,2,OZ,3.09,0.05,3.24,3,N,18
+477,Additives,BSG,PolyClar VT (PVPP),1,EA,5.69,0.05,5.98,11,N,13
+478,Additives,Super-Kleer,K.C. Fining Kit,1,EA,2.26,0.05,2.37,10,N,13
+479,Additives,White Labs,Clarity Ferm Homebrew,10,mL,4.74,0.05,4.98,4,N,20
+480,Additives,LD Carlson,Bentonite,4,OZ,1.56,0.05,1.64,2,N,19
+481,Additives,BSG,Biofine Clear Clarifier,1,OZ,3.09,0.05,3.24,1,N,19
+482,Additives,BSG,Lactic Acid,4,OZ,4.74,0.05,4.98,12,N,19
+483,Additives,BSG,Citric Acid,4,OZ,1.81,0.05,1.9,10,N,12
+484,Additives,BSG,Malic Acid,4,OZ,4.92,0.05,5.17,2,N,11
+485,Additives,BSG,Amylase Enzyme Formula,1.5,OZ,1.89,0.05,1.99,2,N,14
+486,Additives,BSG,Pectic Enzyme Solution,0.5,OZ,2.84,0.05,2.98,8,N,9
+487,Additives,BSG,Pectic Enzyme Powder,1,OZ,2.14,0.05,2.24,1,N,7
+488,Additives,White Labs,Ultra-Ferm Homebrew,10,mL,6.64,0.05,6.97,4,N,17
+489,Additives,CellarScience,Acid Blend,2,OZ,1.89,0.05,1.99,7,N,14
+490,Additives,BSG,Potassium Sorbate,1,OZ,3.79,0.05,3.98,3,N,7
+491,Additives,BSG,Kerry FermCap S,1,OZ,2.56,0.05,2.68,11,N,8
+492,Additives,Five Star,"Mash Stabilizer, 5.2 pH",1,LB,15.19,0.05,15.95,12,N,14
+493,Additives,BSG,Calcium Chloride Pellets,1,LB,4.74,0.05,4.98,11,N,11
+494,Additives,BSG,Gypsum (Calcium Sulfate),2,OZ,1.08,0.05,1.14,7,N,7
+495,Additives,BSG,Calcium Carbonate,8,OZ,2.38,0.05,2.49,6,N,13
+496,Additives,BSG,Epsom Salt,1,LB,3.79,0.05,3.98,1,N,21
+497,Additives,BSG,Foam Control (FermCapS),1,OZ,4.74,0.05,4.98,5,N,18
+498,Additives,BSG,Calcium Chloride Pellets,2,OZ,2.37,0.05,2.48,11,N,19
+499,Additives,BSG,Amylase Enzyme,1.5,OZ,2.84,0.05,2.98,2,N,16
+500,Cleaners,Five Star,PBW,4,LB,25.64,0.05,26.92,11,N,14
+501,Cleaners,Five Star,PBW,1,LB,8.54,0.05,8.97,12,N,14
+502,Cleaners,BLC,Beer Line Cleaner (BLC),32,OZ,17.09,0.05,17.95,6,N,14
+503,Cleaners,BLC,Beer Line Cleaner (BLC),4,OZ,4.74,0.05,4.98,1,N,15
+504,Cleaners,Craft Meister,Growler Tabs,25,EA,5.5,0.05,5.78,9,N,21
+505,Cleaners,Craft Meister,Oxygen Wash,1,LB,8.07,0.05,8.47,10,N,17
+506,Cleaners,Craft Meister,Alkaline Wash,1,LB,10.44,0.05,10.96,5,N,19
+507,Cleaners,B-Brite,B-Brite Cleanser,8,OZ,4.74,0.05,4.98,0,Y,20
+508,Sanitizers,Five Star,Star San,32,OZ,25.64,0.05,26.92,6,N,8
+509,Sanitizers,Five Star,Star San,16,OZ,18.04,0.05,18.94,7,N,15
+510,Sanitizers,Five Star,Star San,8,OZ,12.34,0.05,12.96,1,N,8
+511,Sanitizers,Five Star,Star San,4,OZ,7.12,0.05,7.47,5,N,13
+512,Sanitizers,National Chemicals,BTF Iodophor Sanitizer,16,OZ,16.14,0.05,16.95,11,N,21
+513,Sanitizers,National Chemicals,BTF Iodophor,4,OZ,6.64,0.05,6.97,10,N,16
+514,Sanitizers,Five Star,Saniclean,16,OZ,12.34,0.05,12.96,1,N,9
+515,Brushes,Brewerdude,"Airlock Brush (tiny) 7""",1,EA,2.84,0.05,2.98,4,N,10
+516,Brushes,Brewerdude,"Drawtube Brush (1/4"" x 3')",1,EA,7.12,0.05,7.47,6,N,15
+517,Brushes,Brewerdude,Beer Bottle Brush,1,EA,4.74,0.05,4.98,2,N,16
+518,Brushes,Brewerdude,"Express Cloth Carboy Brush 29""",1,EA,15.67,0.05,16.45,0,Y,9
+519,Brushes,Brewerdude,Carboy Brush,1,EA,5.69,0.05,5.98,10,N,17
+520,Hardware,Danco,Sink Faucet Adapter - Stainless,1,EA,5.69,0.05,5.98,12,N,18
+521,Equipment,TrueBrew,Basic Starter Equipment Kit,1,EA,75.99,0.05,79.79,4,N,7
+522,Equipment,TrueBrew,Deluxe Starter Equipment Kit with Plastic Carboy,1,EA,85.49,0.05,89.77,12,N,7
+523,Equipment,TrueBrew,Deluxe Starter Equipment Kit with Glass Carboy,1,EA,104.49,0.05,109.72,1,N,10
+524,Equipment,Eagle Brewing,"Plastic Paddle, 28""",1,EA,4.55,0.05,4.78,2,N,7
+525,Equipment,Northern Brewer,"Stainless Steel Spoon 24""",1,EA,12.34,0.05,12.96,12,N,19
+526,Equipment,Northern Brewer,"Plastic Spoon 24""",1,EA,4.08,0.05,4.28,12,N,18
+527,Equipment,Northern Brewer,"16"" Curved Racking Cane",1,EA,3.79,0.05,3.98,12,N,9
+528,Equipment,TrueBrew,"Racking Cane 18"" -3/8"" OD",1,EA,2.84,0.05,2.98,10,N,17
+529,Equipment,TrueBrew,"Racking Cane 24"" - 3/8"" OD",1,EA,2.84,0.05,2.98,2,N,20
+530,Equipment,TrueBrew,"Racking Cane 30"" -3/8"" OD",1,EA,3.79,0.05,3.98,1,N,20
+531,Equipment,TrueBrew,"Racking Cane 26"" -1/2"" OD",1,EA,3.79,0.05,3.98,3,N,18
+532,Equipment,Northern Brewer,"Siphon Standard 3/8"" OD",1,EA,11.39,0.05,11.96,8,N,15
+533,Equipment,Northern Brewer,"Siphon Fast Flow 1/2"" OD",1,EA,15.19,0.05,15.95,11,N,19
+534,Equipment,Northern Brewer,"Mini Siphon 3/8"" OD",1,EA,9.49,0.05,9.97,9,N,14
+535,Equipment,BSG,"Plastic Wine Thief, adjustable length 10"" or 18""",1,EA,5.98,0.05,6.27,5,N,12
+536,Bottling,Blichmann,BeerGun Bottle Filler with Accessory Kit,1,EA,94.99,0.05,99.74,4,N,13
+537,Equipment,BSG,Plastic Tubing Clamp: XL,1,EA,2.84,0.05,2.98,4,N,11
+538,Equipment,Fermtech,"3/8"" Clamp for Auto Siphon",1,EA,3.32,0.05,3.48,10,N,12
+539,Equipment,Fermtech,"1/2"" Clamp for Auto Siphon",1,EA,3.32,0.05,3.48,7,N,12
+540,Equipment,BSG,"Siphon Stem Holder - fits 3/8"" & 1/2"" racking canes",1,EA,1.11,0.05,1.17,2,N,21
+541,Testing,Northern Brewer,Triple Scale Wine & Beer Hydrometer,1,EA,6.64,0.05,6.97,9,N,17
+542,Testing,Northern Brewer,Proof & Tralle Hydrometer,1,EA,12.34,0.05,12.96,10,N,20
+543,Testing,Northern Brewer,Refractometer (Brix & SG),1,EA,47.49,0.05,49.87,1,N,13
+544,Testing,Northern Brewer,Glass Test Jar with Bumpers,1,EA,11.39,0.05,11.96,3,N,10
+545,Testing,Northern Brewer,"Plastic Test Jar, 10""",1,EA,5.69,0.05,5.98,5,N,18
+546,Testing,Northern Brewer,"Plastic Test Jar, 12"" w/ Screw Base",1,EA,7.59,0.05,7.97,4,N,7
+547,Testing,Northern Brewer,"Plastic Test Jar, 14""",1,EA,3.79,0.05,3.98,12,N,19
+548,Testing,Northern Brewer,Hydrometer/Thermometer Combo,1,EA,13.01,0.05,13.66,8,N,17
+549,Equipment,Northern Brewer,Kettle Thermometer,1,EA,24.37,0.05,25.59,1,N,18
+550,Equipment,Northern Brewer,Weldless Kit for Kettle Thermometer,1,EA,5.13,0.05,5.39,4,N,9
+551,Equipment,Northern Brewer,Floating Thermometer,1,EA,9.49,0.05,9.97,7,N,18
+552,Equipment,Northern Brewer,"Bi-Metal Dial Thermometer 9"" stem",1,EA,9.97,0.05,10.46,8,N,11
+553,Equipment,Northern Brewer,Adhesive Fermenting Thermometer,1,EA,2.65,0.05,2.78,3,N,16
+554,Equipment,Northern Brewer,Laboratory Thermometer,1,EA,6.64,0.05,6.97,0,Y,10
+555,Equipment,Northern Brewer,Brewery Floating Thermometer 12 in,1,EA,18.95,0.05,19.9,3,N,19
+556,Testing,Northern Brewer,Beverage Doctor - Pen Style pH Meter,1,EA,51.29,0.05,53.86,7,N,21
+557,Testing,Milwaukee Instruments,Milwaukee pH55 pH & Temperature Meter,1,EA,66.49,0.05,69.82,9,N,11
+558,Testing,Northern Brewer,Sodium Hydroxide 4 fl oz,1,EA,4.55,0.05,4.78,10,N,19
+559,Testing,Northern Brewer,"Acid Test Paper, Beer Range",1,EA,6.64,0.05,6.97,7,N,16
+560,Testing,Northern Brewer,"Acid Test Paper, Wine Range",1,EA,6.64,0.05,6.97,1,N,10
+561,Testing,Northern Brewer,Iodine Test Papers,1,EA,4.27,0.05,4.48,1,N,15
+562,Testing,Northern Brewer,Chlorine Test Papers,1,EA,4.27,0.05,4.48,2,N,19
+563,Testing,Northern Brewer,pH Calibration Buffer Solution 4.01,1,EA,1.85,0.05,1.95,1,N,18
+564,Testing,Northern Brewer,pH Calibration Buffer Solution 4.01,230,mL,15.68,0.05,16.46,7,N,17
+565,Testing,Northern Brewer,pH Calibration Buffer Solution 7.01,230,mL,15.68,0.05,16.46,5,N,21
+566,Testing,Northern Brewer,Wine Acid Test Kit,1,EA,11.39,0.05,11.96,8,N,11
+567,Testing,KegLand,Beverage Doctor - Replacement Electrode/Probe,1,EA,14.24,0.05,14.95,9,N,16
+568,Testing,KegLand,Beverage Doctor - KCl 3mol/Litre Storage Solution,1,EA,4.74,0.05,4.98,0,Y,12
+569,Testing,Northern Brewer,pH Calibration Buffer Solution 7.01,1,EA,1.85,0.05,1.95,4,N,19
+570,Equipment,Northern Brewer,Twin Roller Grain Mill,1,EA,123.49,0.05,129.67,1,N,12
+571,Equipment,Northern Brewer,"4.5"" Plastic Funnel",1,EA,2.84,0.05,2.98,12,N,17
+572,Equipment,Northern Brewer,"8"" Plastic Funnel",1,EA,6.64,0.05,6.97,7,N,11
+573,Equipment,Northern Brewer,"10"" Plastic Funnel With Screen",1,EA,8.73,0.05,9.17,1,N,20
+574,Equipment,Northern Brewer,"10"" Anti-Splash Funnel With Screen",1,EA,11.39,0.05,11.96,11,N,14
+575,Equipment,Northern Brewer,"4"" Fine Mesh Straining Screen",1,EA,3.03,0.05,3.18,11,N,13
+576,Equipment,Northern Brewer,Hop Spider,1,EA,28.49,0.05,29.92,10,N,12
+577,Equipment,Northern Brewer,"Copper Immersion Wort Chiller 25' with 3/8"" tubing",1,EA,66.49,0.05,69.82,1,N,15
+578,Equipment,Northern Brewer,Copper Immersion Wort Chiller 50',1,EA,113.99,0.05,119.69,1,N,16
+579,Equipment,Northern Brewer,Wort Chiller - Stainless (25' x 3/8 with tubing),1,EA,56.99,0.05,59.84,0,Y,7
+580,Equipment,Northern Brewer,Stainless Steel Wort Chiller with Brass Fittings - 50 ft x 1/2 in,1,EA,94.99,0.05,99.74,2,N,8
+581,Equipment,Northern Brewer,Sparging Bag for 6.5 gal Buckets,1,EA,11.39,0.05,11.96,7,N,8
+582,Equipment,Northern Brewer,Sparging Bag for 7.8 gal Buckets,1,EA,9.98,0.05,10.47,8,N,15
+583,Equipment,Northern Brewer,Sparging Bag with Drawstring for 6.5 gal Buckets,1,EA,13.21,0.05,13.87,3,N,20
+584,Equipment,Northern Brewer,Bucket Filter,1,EA,7.13,0.05,7.48,7,N,18
+585,Equipment,Northern Brewer,"Fine Mesh Straining Bag 12"" x 19""",1,EA,6.18,0.05,6.48,1,N,14
+586,Equipment,Northern Brewer,"Coarse Mesh Straining Bag 12"" x 19""",1,EA,2.38,0.05,2.49,3,N,7
+587,Equipment,Northern Brewer,"Fine Mesh Straining bag 18.75"" x 19""",1,EA,8.08,0.05,8.48,0,Y,13
+588,Equipment,Northern Brewer,"Coarse Mesh Straining Bag 20"" x 22""",1,EA,3.33,0.05,3.49,4,N,18
+589,Equipment,Northern Brewer,"Coarse Mesh Straining Bag 2"" x 3""",1,EA,6.65,0.05,6.98,10,N,19
+590,Equipment,Northern Brewer,"Coarse Mesh Straining Bag with Elastic Top 18.5"" x 20""",1,EA,5.13,0.05,5.39,3,N,13
+591,Equipment,Northern Brewer,"Muslin Hop Bag 5"" x 15""",1,EA,0.94,0.05,0.99,11,N,19
+592,Equipment,Northern Brewer,"Nylon Hop Bag 8"" x 9.25""",1,EA,4.09,0.05,4.29,0,Y,9
+593,Equipment,Northern Brewer,Nylon Hop Bag 1' x 3',1,EA,12.35,0.05,12.97,7,N,21
+594,Equipment,Northern Brewer,"Brew In A Bag - Mesh (27.5"" x 32.5"")",1,EA,14.24,0.05,14.95,0,Y,21
+595,Equipment,Northern Brewer,Bag - 24 in. x 24 in. Coarse Mesh,1,EA,6.64,0.05,6.97,12,N,16
+596,Equipment,Northern Brewer,"Mesh Bag With Drawstring 31.5"" x21.7""",1,EA,6.64,0.05,6.97,12,N,7
+597,Equipment,Northern Brewer,"Mesh Bag With Drawstring 29""x29""",1,EA,8.54,0.05,8.97,4,N,16
+598,Equipment,Northern Brewer,Standard 3 Gallon Glass Carboy,1,EA,27.54,0.05,28.92,2,N,19
+599,Equipment,Northern Brewer,Standard 5 Gallon Glass Carboy,1,EA,37.99,0.05,39.89,5,N,15
+600,Equipment,Northern Brewer,Standard 6 Gallon Glass Carboy,1,EA,40.84,0.05,42.88,2,N,12
+601,Equipment,Northern Brewer,Standard 6.5 Gallon Glass Carboy,1,EA,44.64,0.05,46.87,9,N,16
+602,Equipment,FerMonster,6 Gallon Carboy,1,EA,28.49,0.05,29.92,0,Y,16
+603,Equipment,FerMonster,7 Gallon Carboy,1,EA,30.39,0.05,31.91,6,N,14
+604,Equipment,FerMonster,Solid Lid,1,EA,4.74,0.05,4.98,5,N,17
+605,Equipment,FerMonster,O-Ring for Lid,1,EA,2.84,0.05,2.98,1,N,12
+606,Equipment,FerMonster,Lid Opener,1,EA,4.04,0.05,4.24,4,N,8
+607,Equipment,FerMonster,1 Gallon Carboy,1,EA,14.24,0.05,14.95,4,N,11
+608,Equipment,FerMonster,Carboy - 3 gal.,1,EA,18.99,0.05,19.94,6,N,15
+609,Equipment,Northern Brewer,2 gallon Bucket only (no lid),1,EA,7.59,0.05,7.97,4,N,9
+610,Equipment,Northern Brewer,2 gallon Lid only solid,1,EA,2.84,0.05,2.98,1,N,15
+611,Equipment,Northern Brewer,2 gallon lid - drilled + grommet,1,EA,3.79,0.05,3.98,8,N,12
+612,Equipment,Northern Brewer,"6.5 Gallon Bucket only, drilled for spigot",1,EA,14.81,0.05,15.55,10,N,20
+613,Equipment,Northern Brewer,"6.5 Gallon Bucket Only, solid, no lid",1,EA,14.72,0.05,15.45,10,N,13
+614,Equipment,Northern Brewer,6 Gallon Lid only - solid,1,EA,3.79,0.05,3.98,7,N,20
+615,Equipment,Northern Brewer,6 Gallon Lid only- drilled + grommet,1,EA,4.99,0.05,5.24,8,N,17
+616,Equipment,Northern Brewer,7.8 Gallon Bucket Only - No Lid,1,EA,17.09,0.05,17.95,10,N,17
+617,Equipment,Northern Brewer,7.8 Gallon Bucket - Drilled For Spigot - No Lid,1,EA,18.99,0.05,19.94,7,N,16
+618,Equipment,Northern Brewer,7.8 Gallon Lid Only - Solid,1,EA,7.12,0.05,7.47,4,N,16
+619,Equipment,Northern Brewer,7.8 Gallon Lid Only -Drilled + grommet,1,EA,7.12,0.05,7.47,11,N,14
+620,Equipment,Northern Brewer,Bottling Spigot,1,EA,2.84,0.05,2.98,11,N,12
+621,Equipment,Northern Brewer,Extra Grommet for all lids,1,EA,0.66,0.05,0.69,12,N,8
+622,Equipment,Northern Brewer,Pail Opening Tool,1,EA,7.59,0.05,7.97,0,Y,16
+623,Equipment,Northern Brewer,Brew Hauler,1,EA,14.24,0.05,14.95,11,N,21
+624,Equipment,Northern Brewer,Carboy Handle for Smooth Neck Carboys,1,EA,7.59,0.05,7.97,9,N,15
+625,Equipment,RiteBrew,Drilled Rubber Stopper #2,1,EA,0.57,0.05,0.6,10,N,19
+626,Equipment,RiteBrew,Drilled Rubber Stopper #3,1,EA,1.28,0.05,1.35,10,N,17
+627,Equipment,RiteBrew,Drilled Rubber Stopper #5.5,1,EA,1.05,0.05,1.11,0,Y,12
+628,Equipment,RiteBrew,Drilled Rubber Stopper #6,1,EA,1.42,0.05,1.49,4,N,16
+629,Equipment,RiteBrew,Drilled Rubber Stopper #6.5,1,EA,1.77,0.05,1.86,8,N,18
+630,Equipment,RiteBrew,Drilled Rubber Stopper #7,1,EA,1.89,0.05,1.99,6,N,12
+631,Equipment,RiteBrew,Drilled Rubber Stopper #7.5,1,EA,2.17,0.05,2.27,2,N,11
+632,Equipment,RiteBrew,Drilled Rubber Stopper #8,1,EA,2.57,0.05,2.69,2,N,14
+633,Equipment,RiteBrew,Drilled Rubber Stopper #8.5,1,EA,3.39,0.05,3.56,5,N,20
+634,Equipment,RiteBrew,Drilled Rubber Stopper #9,1,EA,3.42,0.05,3.59,10,N,10
+635,Equipment,RiteBrew,Drilled Rubber Stopper #9.5,1,EA,3.96,0.05,4.16,5,N,15
+636,Equipment,RiteBrew,Drilled Rubber Stopper #10,1,EA,2.14,0.05,2.24,4,N,21
+637,Equipment,RiteBrew,Drilled Rubber Stopper #10.5,1,EA,5.67,0.05,5.96,10,N,8
+638,Equipment,RiteBrew,Drilled Rubber Stopper #11,1,EA,3.85,0.05,4.04,10,N,13
+639,Equipment,RiteBrew,Drilled Rubber Stopper #11.5,1,EA,7.98,0.05,8.38,4,N,9
+640,Equipment,RiteBrew,Solid Rubber Stopper #000,1,EA,0.34,0.05,0.36,10,N,20
+641,Equipment,RiteBrew,Solid Rubber Stopper #3,1,EA,0.71,0.05,0.75,7,N,13
+642,Equipment,RiteBrew,Solid Rubber Stopper #6,1,EA,1.23,0.05,1.29,6,N,21
+643,Equipment,RiteBrew,Solid Rubber Stopper #6.5,1,EA,1.57,0.05,1.65,12,N,8
+644,Equipment,RiteBrew,Solid Rubber Stopper #7,1,EA,1.68,0.05,1.77,3,N,17
+645,Equipment,RiteBrew,Solid Rubber Stopper #8.5,1,EA,2.54,0.05,2.66,3,N,17
+646,Equipment,RiteBrew,Solid Rubber Stopper #10,1,EA,3.71,0.05,3.89,9,N,11
+647,Equipment,RiteBrew,Solid Rubber Stopper #11,1,EA,4.42,0.05,4.64,5,N,14
+648,Equipment,Northern Brewer,Clean Bottle Express Degasser,1,EA,16.14,0.05,16.95,4,N,15
+649,Equipment,Northern Brewer,Fizz-X Agitator Rod,1,EA,23.74,0.05,24.93,8,N,17
+650,Equipment,Northern Brewer,Standard Carboy Cap,1,EA,3.79,0.05,3.98,1,N,14
+651,Equipment,Northern Brewer,Carboy Dryer,1,EA,9.49,0.05,9.97,5,N,19
+652,Equipment,Northern Brewer,Brew Belt,1,EA,28.49,0.05,29.92,6,N,13
+653,Equipment,Northern Brewer,Locking Silicone Bung for Barrel,1,EA,14.24,0.05,14.95,2,N,18
+654,Equipment,Northern Brewer,Universal Stopper/Bung with hole,1,EA,1.71,0.05,1.8,4,N,7
+655,Equipment,Northern Brewer,S - Shape Airlock,1,EA,2.46,0.05,2.58,1,N,9
+656,Equipment,Northern Brewer,Three Piece Airlock,1,EA,2.46,0.05,2.58,4,N,21
+657,Equipment,Northern Brewer,Diffusion Stone .5 Microns,1,EA,12.35,0.05,12.97,10,N,16
+658,Equipment,Northern Brewer,Diffusion Stone 2 Microns,1,EA,12.07,0.05,12.67,10,N,12
+659,Equipment,Northern Brewer,Oxygen Regulator Kit,1,EA,42.7,0.05,44.84,2,N,16
+660,Equipment,Northern Brewer,The OxyWand™ Oxygenation Kit - 0.5 Micron,1,EA,56.99,0.05,59.84,9,N,13
+661,Equipment,Northern Brewer,Oxygen Regulator - For Disposable Tanks w/Barb,1,EA,28.49,0.05,29.92,1,N,18
+662,Bottling,Northern Brewer,12 oz. Beer Bottles,12,EA,16.14,0.05,16.95,11,N,20
+663,Bottling,Northern Brewer,12 oz. Beer Bottles,24,EA,22.79,0.05,23.93,3,N,10
+664,Bottling,Northern Brewer,22 oz. Beer Bottles,12,EA,19.94,0.05,20.94,4,N,13
+665,Bottling,Northern Brewer,16 oz. Beer Bottles,12,EA,20.89,0.05,21.94,5,N,18
+666,Bottling,Northern Brewer,Bottle Caps Oxygen Absorbing,120,EA,5.5,0.05,5.78,7,N,21
+667,Bottling,Northern Brewer,Bottle Capper,1,EA,19.94,0.05,20.94,8,N,16
+668,Equipment,Dark Star,Burner 2.0,1,EA,76.94,0.05,80.79,12,N,7
+669,Hops,Mighty Axe Hops,Sampler Pack,1,OZ,44.64,0.05,46.87,9,N,8
+670,Hops,Mighty Axe Hops,Minnesota Julius Hops Pellets,1,OZ,3.13,0.05,3.28,8,N,14
+671,Hops,Mighty Axe Hops,Minnesota Tropica Hops Pellets,1,OZ,3.13,0.05,3.28,11,N,14
+672,Hops,Mighty Axe Hops,Minnesota Comet Hops Pellets,1,OZ,3.13,0.05,3.28,2,N,10
+673,Hops,Mighty Axe Hops,Minnesota Triple Pearl Hops Pellets,1,OZ,3.13,0.05,3.28,3,N,14
+674,Hops,Mighty Axe Hops,Minnesota Sterling Hops Pellets,1,OZ,2.84,0.05,2.98,9,N,15
+675,Equipment,Northern Brewer,2 Gallon Stainless Kettle,1,EA,19.94,0.05,20.94,2,N,20
+676,Equipment,Northern Brewer,5 Gallon Brew Kettle Stainless Steel,1,EA,42.74,0.05,44.88,9,N,12
+677,Equipment,Cornelius,5 Gallon Ball Lock Beer Keg,1,EA,131.09,0.05,137.65,1,N,18
+678,Kegging,Northern Brewer,Mini Keg,1,EA,15.19,0.05,15.95,1,N,14
+679,Kegging,Northern Brewer,Soda Keg CO2 Charger,1,EA,30.39,0.05,31.91,9,N,8
+680,Kegging,Northern Brewer,Keg King Keg Master Series 4 Kegerator SS,1,EA,712.49,0.05,748.12,1,N,9
+681,Kegging,Cornelius,Home Brew Keg System w/ Two Ball Lock Kegs & Gas Distributor,1,EA,379.99,0.05,398.99,1,N,7
+682,Kegging,Northern Brewer,Complete 1 Gallon Mini Keg System,1,EA,204.24,0.05,214.45,1,N,8
+683,Kegging,Cornelius,Cannonball 1.75 Gallon Mini Keg,1,EA,71.43,0.05,75,7,N,11
+684,Recipe Kit,Northern Brewer,Superior Christmas Ale Extract Recipe Kit,1,EA,62.69,0.05,65.83,2,N,10
+685,Recipe Kit,Northern Brewer,Superior Christmas Ale All Grain Recipe Kit,1,EA,58.89,0.05,61.84,11,N,12
+686,Recipe Kit,Northern Brewer,Festivus Miracle Holiday Ale All Grain Beer Recipe Kit,1,EA,49.39,0.05,51.86,8,N,10
+687,Recipe Kit,Northern Brewer,Houblonmonstre Tripel IPA All Grain Beer Recipe Kit,1,EA,54.14,0.05,56.85,0,Y,13
+688,Recipe Kit,Northern Brewer,Belgian Tripel All Grain Beer Recipe Kit,1,EA,44.64,0.05,46.87,6,N,18
+689,Recipe Kit,Northern Brewer,Smoke Bomb Imperial Smoked Chipotle Porter All Grain Beer Recipe Kit,1,EA,49.39,0.05,51.86,10,N,21
+690,Recipe Kit,Northern Brewer,Saison de Noel All Grain Beer Recipe Kit,1,EA,44.64,0.05,46.87,1,N,19
+691,Recipe Kit,Northern Brewer,Brickwarmer Holiday Red All Grain Beer Recipe Kit,1,EA,38.94,0.05,40.89,5,N,8
+692,Recipe Kit,Northern Brewer,Brickwarmer Holiday Red Extract Beer Recipe Kit,1,EA,42.74,0.05,44.88,0,Y,17
+693,Recipe Kit,Northern Brewer,Carmelite Triple-Grain Tripel Partial Mash Beer Recipe Kit,1,EA,41.79,0.05,43.88,7,N,9
+694,Recipe Kit,Northern Brewer,Festivus Miracle Holiday Ale Extract Beer Recipe Kit,1,EA,52.24,0.05,54.85,7,N,7
+695,Recipe Kit,Northern Brewer,Houblonmonstre Tripel IPA Extract Beer Recipe Kit,1,EA,56.99,0.05,59.84,9,N,16
+696,Recipe Kit,Northern Brewer,Belgian Tripel Extract Beer Recipe Kit,1,EA,47.49,0.05,49.87,4,N,15
+697,Recipe Kit,Northern Brewer,Smoke Bomb Imperial Smoked Chipotle Porter Extract Beer Recipe Kit,1,EA,52.24,0.05,54.85,9,N,7
+698,Recipe Kit,Northern Brewer,Saison de Noel Extract Beer Recipe Kit,1,EA,47.49,0.05,49.87,10,N,18
+699,Recipe Kit,Northern Brewer,Belgian Tripel 1 Gallon Beer Recipe Kit,1,EA,25.64,0.05,26.92,1,N,14
+700,Recipe Kit,Northern Brewer,Festivus Miracle Holiday Ale 1 Gallon Beer Kit,1,EA,18.99,0.05,19.94,4,N,18
+701,Recipe Kit,Northern Brewer,American Wheat Beer All Grain Beer Recipe Kit,1,EA,25.64,0.05,26.92,11,N,11
+702,Recipe Kit,Northern Brewer,Tallgrass Buffalo Sweat Stout Pro Series All Grain Beer Recipe Kit,1,EA,34.19,0.05,35.9,4,N,10
+703,Recipe Kit,Northern Brewer,Tallgrass Halcyon Unfiltered Wheat Pro Series All Grain Beer Recipe Kit,1,EA,28.49,0.05,29.92,2,N,7
+704,Recipe Kit,Northern Brewer,Off the Topper IIPA All Grain Beer Recipe Kit,1,EA,64.59,0.05,67.82,1,N,21
+705,Recipe Kit,Northern Brewer,Legend of Lutra All Grain Recipe Kit,1,EA,34.19,0.05,35.9,6,N,19
+706,Recipe Kit,Northern Brewer,Honey Weizen All Grain Beer Recipe Kit,1,EA,28.49,0.05,29.92,5,N,8
+707,Recipe Kit,Northern Brewer,Smashing Pumpkin Ale All Grain Beer Recipe Kit,1,EA,38.94,0.05,40.89,8,N,9
+708,Recipe Kit,Northern Brewer,Dark Inception Imperial Porter All Grain Recipe Kit - Big Brew 2022,1,EA,84.54,0.05,88.77,7,N,12
+709,Recipe Kit,Northern Brewer,Mango Fusion Kolsch All Grain Recipe Kit,1,EA,44.64,0.05,46.87,1,N,9
+710,Recipe Kit,Northern Brewer,Caribou Slobber All Grain Beer Recipe Kit,1,EA,38.94,0.05,40.89,8,N,13
+711,Recipe Kit,Northern Brewer,Cascade Mountains West Coast Imperial IPA All Grain Beer Recipe Kit,1,EA,58.89,0.05,61.84,6,N,7
+712,Recipe Kit,Northern Brewer,The Innkeeper All Grain Beer Recipe Kit,1,EA,38.94,0.05,40.89,9,N,15
+713,Recipe Kit,Northern Brewer,Cashmere Blonde Ale All Grain Beer Recipe Kit,1,EA,34.19,0.05,35.9,0,Y,16
+714,Recipe Kit,Northern Brewer,Nightfall Black Saison All Grain Beer Recipe Kit,1,EA,38.94,0.05,40.89,12,N,17
+715,Recipe Kit,Northern Brewer,Irish Red Ale All Grain Beer Recipe Kit,1,EA,28.49,0.05,29.92,7,N,17
+716,Recipe Kit,Northern Brewer,Kiwi Express IPA All Grain Beer Recipe Kit,1,EA,49.39,0.05,51.86,4,N,21
+717,Recipe Kit,Northern Brewer,Kolsch All Grain Beer Recipe Kit,1,EA,38.94,0.05,40.89,3,N,17
+718,Recipe Kit,Northern Brewer,Lefse Blonde All Grain Beer Recipe Kit,1,EA,38.94,0.05,40.89,3,N,20
+719,Recipe Kit,Northern Brewer,Chinook IPA All Grain Beer Recipe Kit,1,EA,38.94,0.05,40.89,11,N,21
+720,Recipe Kit,Northern Brewer,Sierra Madre Pale Ale All Grain Beer Recipe Kit,1,EA,38.94,0.05,40.89,5,N,20
+721,Recipe Kit,Northern Brewer,Permafrost White IPA All Grain Beer Recipe Kit,1,EA,44.64,0.05,46.87,9,N,10
+722,Recipe Kit,Northern Brewer,The Mutt's Nuts Brown Porter All Grain Beer Recipe Kit,1,EA,37.04,0.05,38.89,2,N,13
+723,Recipe Kit,Northern Brewer,Funktional Fruit Sour All Grain Beer Recipe Kit,1,EA,38.94,0.05,40.89,2,N,11
+724,Recipe Kit,Northern Brewer,Bourbon Barrel Porter All Grain Beer Recipe Kit,1,EA,49.39,0.05,51.86,0,Y,14
+725,Recipe Kit,Northern Brewer,Dry Irish Stout All Grain Beer Recipe Kit,1,EA,32.29,0.05,33.91,6,N,8
+726,Recipe Kit,Northern Brewer,Gaarden Hoe Witbier All Grain Beer Recipe Kit,1,EA,44.64,0.05,46.87,3,N,21
+727,Recipe Kit,Northern Brewer,Honey Kolsch All Grain Beer Recipe Kit,1,EA,28.49,0.05,29.92,4,N,12
+728,Recipe Kit,Northern Brewer,Swig of Sunbeams All Grain Beer Recipe Kit,1,EA,54.14,0.05,56.85,12,N,13
+729,Hops,Northern Brewer,Evergreen Hops Pellets,1,OZ,3.6,0.05,3.78,9,N,15
+730,Hops,Northern Brewer,Sequoia Hops Pellets,1,OZ,3.6,0.05,3.78,6,N,13
+731,Hops,Northern Brewer,Trident Hop Pellets,1,OZ,2.56,0.05,2.68,4,N,11
+732,Hops,Northern Brewer,Citiva Hops Pellets,1,OZ,3.6,0.05,3.78,12,N,19
+733,Hops,Northern Brewer,Nobility Hops Pellets,1,OZ,3.6,0.05,3.78,4,N,15
+734,Hops,Northern Brewer,Zamba Hops Pellets,1,OZ,3.6,0.05,3.78,7,N,7
+735,Hops,Northern Brewer,Palisade Hops Pellets,1,OZ,1.89,0.05,1.99,9,N,10
+736,Hops,Yakima Chief,Cryo Pop Cryo Hops LupuLN2 Pellets,1,OZ,6.64,0.05,6.97,4,N,12
+737,Hops,Northern Brewer,Strata Hops Pellets,1,OZ,3.13,0.05,3.28,10,N,14
+738,Hops,Northern Brewer,Hersbrucker Hops Pellets - Germany,1,OZ,2.65,0.05,2.78,1,N,12
+739,Hops,Yakima Chief,Citra Cryo Hops LupuLN2 Pellets,1,OZ,6.17,0.05,6.47,10,N,19
+740,Hops,Yakima Chief,Mosaic Cryo Hops LupuLN2 Pellets,1,OZ,5.69,0.05,5.98,4,N,13
+741,Hops,Yakima Chief,Simcoe Cryo Hops LupuLN2 Pellets,1,OZ,5.22,0.05,5.48,8,N,17
+742,Hops,Yakima Chief,Cascade Cryo Hops LupuLN2 Pellets,1,OZ,5.22,0.05,5.48,5,N,17
+743,Hops,Yakima Chief,Centennial Cryo Hops LupuLN2 Pellets,1,OZ,5.22,0.05,5.48,7,N,18
+744,Hops,Yakima Chief,Amarillo Cryo Hops LupuLN2 Pellets,1,OZ,6.17,0.05,6.47,5,N,10
+745,Hops,Northern Brewer,Saaz Hops Pellets - US,1,OZ,3.13,0.05,3.28,12,N,12
+746,Hops,Northern Brewer,Tettnang Hops Pellets - US,1,OZ,2.08,0.05,2.18,1,N,20
+747,Hops,Northern Brewer,Ahtanum Hops Pellets,1,OZ,3.13,0.05,3.28,11,N,18
+748,Hops,Northern Brewer,Magnum Hops Pellets - US,1,OZ,2.56,0.05,2.68,10,N,9
+749,Hops,Northern Brewer,French Strisselspalt Hops Pellets,1,OZ,3.6,0.05,3.78,12,N,17
+750,Hops,Northern Brewer,Hallertau Blanc Hops Pellets - Germany,1,OZ,2.37,0.05,2.48,3,N,15
+751,Hops,Northern Brewer,Jarrylo Hops Pellets,1,OZ,2.37,0.05,2.48,6,N,13
+752,Hops,Northern Brewer,Cascade Hops Pellets,1,OZ,2.18,0.05,2.28,12,N,16
+753,Hops,Northern Brewer,East Kent Goldings (EKG) Hops Pellets,1,OZ,3.79,0.05,3.98,2,N,13
+754,Hops,Northern Brewer,Warrior Hops Pellets,1,OZ,1.89,0.05,1.99,3,N,7
+755,Hops,Northern Brewer,Crystal Hops Pellets,1,OZ,2.65,0.05,2.78,8,N,7
+756,Hops,Northern Brewer,Santiam Hops Pellets,1,OZ,2.56,0.05,2.68,8,N,21
+757,Hops,Northern Brewer,Simcoe Hops Pellets,1,OZ,3.32,0.05,3.48,3,N,20
+758,Hops,Northern Brewer,Waimea Hops Pellets,1,OZ,2.08,0.05,2.18,7,N,10
+759,Hops,Northern Brewer,Galena Hops Pellets,1,OZ,2.08,0.05,2.18,7,N,14
+760,Hops,Northern Brewer,Mt. Hood Hops Pellets,1,OZ,2.56,0.05,2.68,8,N,12
+761,Hops,Northern Brewer,Wakatu Hops Pellets - New Zealand,1,OZ,2.56,0.05,2.68,6,N,11
+762,Hops,Northern Brewer,Styrian Goldings Hops Pellets,1,OZ,2.65,0.05,2.78,3,N,8
+763,Hops,Northern Brewer,Challenger Hops Pellets - UK,1,OZ,2.56,0.05,2.68,2,N,14
+764,Hops,Northern Brewer,Target Hops Pellets - UK,1,OZ,2.56,0.05,2.68,11,N,20
+765,Hops,Northern Brewer,Summit Hops Pellets,1,OZ,2.08,0.05,2.18,5,N,19
+766,Hops,Northern Brewer,Glacier Hops Pellets,1,OZ,2.56,0.05,2.68,6,N,9
+767,Hops,Northern Brewer,Sterling Hops Pellets,1,OZ,1.89,0.05,1.99,9,N,15
+768,Hops,Northern Brewer,Hull Melon Hops Pellets - Germany,1,OZ,2.56,0.05,2.68,5,N,15
+769,Hops,Northern Brewer,Columbus Hops Pellets (CTZ Hops Pellets),1,OZ,2.08,0.05,2.18,9,N,19
+770,Hops,Northern Brewer,Denali Hops Pellets,1,OZ,2.56,0.05,2.68,1,N,8
+771,Hops,Northern Brewer,Lemondrop Hops Pellets,1,OZ,2.56,0.05,2.68,1,N,8
+772,Hops,Northern Brewer,NZH-107 Experimental Hops Pellets - New Zealand,1,OZ,3.6,0.05,3.78,7,N,16
+773,Hops,Northern Brewer,Galaxy Hops Pellets,1,OZ,5.22,0.05,5.48,8,N,18
+774,Hops,Northern Brewer,Bravo Hops Pellets,1,OZ,2.08,0.05,2.18,1,N,19
+775,Hops,Northern Brewer,Centennial Hops Pellets,1,OZ,3.32,0.05,3.48,9,N,7
+776,Hops,Northern Brewer,Fuggle Hops Pellets - US,1,OZ,3.32,0.05,3.48,9,N,15
+777,Hops,Northern Brewer,Idaho 7 Hops Pellets,1,OZ,3.13,0.05,3.28,8,N,20
+778,Hops,Northern Brewer,Zappa Hops Pellets,1,OZ,4.08,0.05,4.28,2,N,20
+779,Hops,Northern Brewer,Citra Hops Pellets,1,OZ,3.79,0.05,3.98,2,N,21
+780,Hops,Northern Brewer,Sabro Hops Pellets,1,OZ,5.22,0.05,5.48,11,N,15
+781,Hops,Northern Brewer,Goldings Hops Pellets - US,1,OZ,2.56,0.05,2.68,10,N,14
+782,Hops,Northern Brewer,Perle Hops Pellets - Germany,1,OZ,2.84,0.05,2.98,10,N,21
+783,Hops,Northern Brewer,Vic Secret Hops Pellets,1,OZ,3.6,0.05,3.78,12,N,17
+784,Hops,Northern Brewer,Cashmere Hops Pellets,1,OZ,3.6,0.05,3.78,12,N,15
+785,Hops,Northern Brewer,Enigma Hops Pellets,1,OZ,3.6,0.05,3.78,1,N,10
+786,Hops,Northern Brewer,Taiheke Hops Pellets - New Zealand,1,OZ,3.13,0.05,3.28,4,N,21
+787,Hops,Northern Brewer,Apollo Hops Pellets,1,OZ,3.13,0.05,3.28,8,N,8
+788,Hops,Northern Brewer,Calypso Hops Pellets,1,OZ,2.56,0.05,2.68,3,N,21
+789,Hops,Northern Brewer,El Dorado Hops Pellets,1,OZ,3.13,0.05,3.28,2,N,10
+790,Hops,Northern Brewer,Hallertau Hops Pellets,1,OZ,2.84,0.05,2.98,7,N,9
+791,Hops,Northern Brewer,Tettnang Hops Pellets - Germany,1,OZ,2.65,0.05,2.78,1,N,19
+792,Hops,Northern Brewer,Horizon Hops Pellets,1,OZ,3.13,0.05,3.28,11,N,8
+793,Hops,Northern Brewer,Nelson Sauvin Hops Pellets - New Zealand,1,OZ,3.6,0.05,3.78,9,N,17
+794,Dry Yeast,Fermentis,SafCider AS-2 Dry Yeast,5,g,5.03,0.05,5.28,7,N,8
+795,Dry Yeast,Fermentis,SafCider AC-4 Dry Yeast,5,g,5.03,0.05,5.28,6,N,13
+796,Dry Yeast,Fermentis,SafCider TF-6 Dry Yeast,5,g,5.03,0.05,5.28,5,N,10
+797,Dry Yeast,Fermentis,Safale BE-134 Belgian Saison Dry Yeast,11.5,g,6.17,0.05,6.47,1,N,11
+798,Dry Yeast,Lallemand,BRY-97 American West Coast Ale Dry Yeast,11,g,6.17,0.05,6.47,6,N,13
+799,Dry Yeast,Lallemand,CBC-1 Cask and Bottle Conditioning Ale Dry Yeast,11,g,6.17,0.05,6.47,9,N,9
+800,Dry Yeast,Lallemand,Windsor British Ale Dry Yeast,11,g,5.5,0.05,5.78,6,N,14
+801,Dry Yeast,Lallemand,London English Ale Dry Yeast,11,g,6.17,0.05,6.47,7,N,21
+802,Dry Yeast,Lallemand,Munich Classic Wheat Beer Dry Yeast,11,g,7.12,0.05,7.47,3,N,19
+803,Dry Yeast,Lallemand,Nottingham English Ale Dry Yeast,11,g,6.17,0.05,6.47,2,N,7
+804,Liquid Yeast,Imperial Yeast,L26 Pilgrimage Lager Yeast - Seasonal Limited Release,1,EA,14.24,0.05,14.95,7,N,9
+805,Liquid Yeast,White Labs,WLP099 Super High Gravity Ale Yeast,1,EA,12.34,0.05,12.96,7,N,11
+806,Liquid Yeast,Wyeast,1087 Bohemian Ale Blend - Seasonal Limited Release,1,EA,12.34,0.05,12.96,10,N,12
+807,Liquid Yeast,Wyeast,2035 American Lager Yeast - Seasonal Limited Release,1,EA,12.34,0.05,12.96,6,N,7
+808,Liquid Yeast,Wyeast,2002 Gambrinus Lager Yeast - Seasonal Limited Release,1,EA,12.34,0.05,12.96,5,N,13
+809,Liquid Yeast,Wyeast,1318 London Ale III Yeast,1,EA,12.34,0.05,12.96,2,N,16
+810,Liquid Yeast,Omega Yeast,OYL-014 British Ale VII,1,EA,13.29,0.05,13.96,1,N,15
+811,Liquid Yeast,Omega Yeast,OYL-033 Jovaru Lithuanian Farmhouse,1,EA,14.24,0.05,14.95,12,N,8
+812,Liquid Yeast,Omega Yeast,OYL-111 German Bock Lager Yeast,1,EA,14.24,0.05,14.95,4,N,17
+813,Liquid Yeast,Omega Yeast,OYL-218 All The Bretts,1,EA,14.24,0.05,14.95,10,N,12
+814,Liquid Yeast,Omega Yeast,OYL-217 C2C American Farmhouse,1,EA,14.24,0.05,14.95,11,N,8
+815,Liquid Yeast,Omega Yeast,OYL-203 Brettanomyces lambicus,1,EA,14.24,0.05,14.95,11,N,13
+816,Liquid Yeast,Omega Yeast,OYL-210 WHERE DA FUNK?,1,EA,13.29,0.05,13.96,9,N,10
+817,Liquid Yeast,Omega Yeast,OYL-212 BRING ON DA FUNK,1,EA,14.24,0.05,14.95,3,N,20
+818,Liquid Yeast,Omega Yeast,OYL-211 BIT O' FUNK,1,EA,14.24,0.05,14.95,3,N,14
+819,Liquid Yeast,Omega Yeast,OYL-202 Brettanomyces bruxellensis,1,EA,14.24,0.05,14.95,5,N,7
+820,Liquid Yeast,Omega Yeast,OYL-201 Brettanomyces claussenii,1,EA,13.29,0.05,13.96,10,N,16
+821,Liquid Yeast,Omega Yeast,OYL-001 Alt,1,EA,14.24,0.05,14.95,2,N,16
+822,Liquid Yeast,Omega Yeast,OYL-500 Saisonstein Monster,1,EA,13.29,0.05,13.96,11,N,20
+823,Liquid Yeast,Omega Yeast,OYL-106 German Lager I,1,EA,14.24,0.05,14.95,8,N,14
+824,Liquid Yeast,Omega Yeast,OYL-105 West Coast Lager,1,EA,14.24,0.05,14.95,4,N,8
+825,Liquid Yeast,Omega Yeast,OYL-005 Irish Ale,1,EA,13.29,0.05,13.96,5,N,7
+826,Liquid Yeast,Omega Yeast,OYL-016 British Ale VIII,1,EA,14.24,0.05,14.95,12,N,16
+827,Liquid Yeast,Omega Yeast,OYL-101 Pilsner I,1,EA,14.24,0.05,14.95,7,N,21
+828,Liquid Yeast,Omega Yeast,OYL-107 Oktoberfest,1,EA,14.24,0.05,14.95,12,N,12
+829,Liquid Yeast,Omega Yeast,OYL-113 Mexican Lager,1,EA,14.24,0.05,14.95,10,N,21
+830,Liquid Yeast,Omega Yeast,OYL-103 American Lager,1,EA,14.24,0.05,14.95,2,N,10
+831,Liquid Yeast,Omega Yeast,OYL-605 LACTOBACILLUS BLEND,1,EA,14.24,0.05,14.95,9,N,9
+832,Liquid Yeast,Omega Yeast,OYL-057 HotHead Ale - Kveik Strain,1,EA,14.24,0.05,14.95,5,N,10
+833,Liquid Yeast,Omega Yeast,OYL-003 London Ale,1,EA,14.24,0.05,14.95,7,N,12
+834,Liquid Yeast,Omega Yeast,OYL-049 Belgian Ale DK,1,EA,14.24,0.05,14.95,10,N,19
+835,Liquid Yeast,Omega Yeast,OYL-020 Belgian Ale R,1,EA,13.29,0.05,13.96,0,Y,21
+836,Liquid Yeast,Omega Yeast,OYL-030 Wit,1,EA,14.24,0.05,14.95,9,N,18
+837,Liquid Yeast,Omega Yeast,OYL-018 Abbey Ale C,1,EA,14.24,0.05,14.95,11,N,8
+838,Liquid Yeast,Omega Yeast,OYL-026 French Saison,1,EA,13.29,0.05,13.96,11,N,9
+839,Liquid Yeast,Omega Yeast,OYL-028 Belgian Ale W,1,EA,14.24,0.05,14.95,0,Y,19
+840,Liquid Yeast,Omega Yeast,OYL-002 American Wheat,1,EA,14.24,0.05,14.95,12,N,16
+841,Liquid Yeast,Omega Yeast,OYL-017 Kolsch,1,EA,14.24,0.05,14.95,8,N,11
+842,Liquid Yeast,Omega Yeast,OYL-012 Pacific NW Ale,1,EA,13.29,0.05,13.96,5,N,21
+843,Liquid Yeast,Omega Yeast,OYL-021 Hefeweizen Ale,1,EA,13.29,0.05,13.96,4,N,10
+844,Liquid Yeast,Omega Yeast,OYL-009 West Coast Ale II,1,EA,14.24,0.05,14.95,12,N,7
+845,Base Malt,MaltWerks,Pale Malt,1,LB,2.46,0.05,2.58,7,N,11
+846,Base Malt,MaltWerks,Pilsner Malt,1,LB,2.46,0.05,2.58,5,N,17
+847,Base Malt,MaltWerks,Distiller's Malt,1,LB,2.65,0.05,2.78,10,N,10
+848,Base Malt,Malting Company of Ireland,Irish Distiller's Malt,1,LB,2.27,0.05,2.38,8,N,12
+849,Base Malt,Malting Company of Ireland,Stout Malt,1,LB,2.27,0.05,2.38,5,N,9
+850,Base Malt,Canada Malting,Wheat Malt,1,LB,2.65,0.05,2.78,1,N,10
+851,Base Malt,MaltEurop,American 2-Row Pale Malt,1,LB,2.65,0.05,2.78,12,N,19
+852,Base Malt,Thomas Fawcett Malting,Optic Malt,1,LB,3.22,0.05,3.38,1,N,14
+853,Base Malt,Briess,MaltGems Synergy Select Pilsen Malt,1,LB,1.99,0.05,2.08,10,N,7
+854,Base Malt,Leopold Bros.,Floor Malted Distiller's Malt,1,LB,2.75,0.05,2.88,8,N,21
+855,Base Malt,Best Malz,German Red X Malt (Munich Malt),1,LB,2.22,0.05,2.33,7,N,16
+856,Base Malt,Leopold Bros.,Floor Malted Pilsner Malt,1,LB,2.75,0.05,2.88,7,N,13
+857,Base Malt,Leopold Bros.,Floor Malted Whiskey Malt,1,LB,2.75,0.05,2.88,12,N,17
+858,Base Malt,Canada Malting,Pale Ale Malt,1,LB,2.65,0.05,2.78,11,N,17
+859,Base Malt,Briess,Odyssey Whiskey Distillers Malt,1,LB,1.99,0.05,2.08,2,N,16
+860,Base Malt,Briess,Vienna Malt,1,LB,1.8,0.05,1.89,5,N,7
+861,Base Malt,Briess,Bonlander Munich Malt,1,LB,1.8,0.05,1.89,1,N,11
+862,Base Malt,Weyermann,Isaria 1924 Heirloom Malt,1,LB,2.65,0.05,2.78,12,N,19
+863,Base Malt,Briess,Organic 2-Row Malt,1,LB,2.75,0.05,2.88,2,N,7
+864,Base Malt,Best Malz,German Vienna Malt,1,LB,1.99,0.05,2.08,4,N,8
+865,Base Malt,Simpsons,English Peated Malt,1,LB,2.75,0.05,2.88,12,N,17
+866,Base Malt,Best Malz,German Munich Malt,1,LB,1.99,0.05,2.08,8,N,15
+867,Equipment,Northern Brewer,"1"" ID Blow Off Hose",1,EA,9.02,0.05,9.47,12,N,13
+868,Equipment,Northern Brewer,Tubing Kit for Counter Pressure Filler,1,EA,33.24,0.05,34.9,12,N,19
+869,Equipment,Northern Brewer,Small Tubing Clamp,1,EA,2.18,0.05,2.28,4,N,7
+870,Equipment,Northern Brewer,Foam-Free Tubing Kit - Ball Lock Version,1,EA,18.04,0.05,18.94,10,N,15
+871,Equipment,Northern Brewer,Faucet Tubing Kit - Ball Lock Version,1,EA,15.19,0.05,15.95,5,N,7
+872,Equipment,Northern Brewer,Foam-Free Tubing Kit - Pin Lock Version,1,EA,18.99,0.05,19.94,2,N,19
+873,Equipment,Northern Brewer,"3/16"" ID Clearflo AG-47 Anti Microbial Tubing",1,EA,7.12,0.05,7.47,2,N,13
+874,Equipment,Northern Brewer,"3/8"" ID Thermoplastic Tubing - Hi Temp Tubing",1,EA,8.07,0.05,8.47,2,N,17
+875,Equipment,Northern Brewer,"3/16"" ID Beverage Line Tubing",1,EA,9.02,0.05,9.47,8,N,16
+876,Equipment,Northern Brewer,"1/2"" ID Thermoplastic Tubing",1,EA,8.07,0.05,8.47,6,N,17
+877,Equipment,Northern Brewer,"3/8"" ID Silicone High Temp Tubing",1,EA,11.39,0.05,11.96,2,N,9
+878,Equipment,Northern Brewer,"1/2"" ID Silicone High Temp Tubing",1,EA,18.04,0.05,18.94,6,N,10
+879,Equipment,Northern Brewer,"3/8"" Clear Thick Wall Tubing",1,EA,8.07,0.05,8.47,9,N,16
+880,Equipment,Northern Brewer,"Turn Key Hose Clamp - 1/4"" - 5/8"" (10 Pack)",1,EA,14.24,0.05,14.95,12,N,20
+881,Equipment,Northern Brewer,"Worm Gear Hose Clamp #2 Stainless 1/4"" - 7/8"" OD (10 Pack)",1,EA,12.34,0.05,12.96,4,N,11
+882,Equipment,Northern Brewer,"Turn Key Hose Clamp - 3/8"" - 7/8"" (10 Pack)",1,EA,14.24,0.05,14.95,9,N,7
+883,Equipment,Northern Brewer,Stepless Hose Clamp No 145 Oetiker,1,EA,3.13,0.05,3.28,6,N,10
+884,Equipment,Northern Brewer,Stepless Hose Clamp No 170 Oetiker,1,EA,1.89,0.05,1.99,4,N,10
+885,Equipment,Huskey,HVS-100 Food Grade Gasket Lubricant - 3 oz. tube,1,EA,10.44,0.05,10.96,1,N,9
+886,Equipment,Northern Brewer,Cold Crash Keezer Gas Line Kit,1,EA,66.49,0.05,69.82,9,N,8
+887,Equipment,Northern Brewer,"S/S Worm Gear Hose Clamp #1 1/8"" - 1/2"" OD (10 Pack)",1,EA,12.34,0.05,12.96,9,N,17
+888,Equipment,Northern Brewer,"5/16"" ID Siphon Hose",1,EA,2.56,0.05,2.68,2,N,17
+889,Crystal Malt,Fawcett,English Medium Crystal Malt,1,LB,2.18,0.05,2.28,2,N,7
+890,Crystal Malt,Fawcett,English Dark Crystal Malt,1,LB,2.18,0.05,2.28,4,N,16
+891,Caramel Malt,Dingemans,Belgian Cara 8 Pils Malt,1,LB,1.8,0.05,1.89,12,N,9
+892,Crystal Malt,Fawcett,English Crystal Rye Malt,1,LB,2.18,0.05,2.28,5,N,8
+893,Caramel Malt,Dingemans,Belgian Cara 45 Malt,1,LB,2.46,0.05,2.58,10,N,10
+894,Caramel Malt,Northern Brewer,"Mecca Grade Opal 44 (Caramelized, Toffee) Malt",1,LB,3.7,0.05,3.88,2,N,11
+895,Caramel Malt,Fawcett,English Cara Malt,1,LB,3.22,0.05,3.38,11,N,8
+896,Caramel Malt,Northern Brewer,"Mecca Grade Opal 22 (Graham, Cocoa) Malt",1,LB,3.7,0.05,3.88,12,N,16
+897,Caramel Malt,Northern Brewer,Special B Malt,1,LB,2.18,0.05,2.28,3,N,21
+898,Caramel Malt,Northern Brewer,Bairds English Carastan Malt,1,LB,1.99,0.05,2.08,9,N,20
+899,Caramel Malt,Dingemans,Belgian Cara 20 (Caravienne) Malt,1,LB,2.46,0.05,2.58,7,N,15
+900,Dry Malt Extract,Briess,Golden Light DME,1,LB,2.84,0.05,2.98,4,N,14
+901,Dry Malt Extract,Muntons,Dark DME,1,LB,19.94,0.05,20.94,4,N,21
+902,Dry Malt Extract,Briess,Sparkling Amber DME,1,LB,9.02,0.05,9.47,12,N,11
+903,Dry Malt Extract,Briess,Traditional Dark DME,1,LB,9.02,0.05,9.47,6,N,14
+904,Dry Malt Extract,Briess,Bavarian Wheat DME,1,LB,9.02,0.05,9.47,7,N,14
+905,Dry Malt Extract,Briess,Pilsen Light DME,1,LB,9.02,0.05,9.47,5,N,16
+906,Dry Malt Extract,Muntons,DME Light,1,LB,8.07,0.05,8.47,12,N,19
+907,Dry Malt Extract,Muntons,DME Amber,1,LB,8.07,0.05,8.47,3,N,18
+908,Dry Malt Extract,Muntons,DME Wheat,1,LB,8.07,0.05,8.47,8,N,13
+909,Dry Malt Extract,Muntons,DME Extra Light,1,LB,9.02,0.05,9.47,10,N,10
+910,Dry Malt Extract,Muntons,DME Extra Dark,3,LB,18.04,0.05,18.94,8,N,8
+911,Dry Malt Extract,Briess,Organic Light DME,1,LB,10.44,0.05,10.96,12,N,12
+912,Liquid Yeast,Northern Brewer,Fast Pitch® Canned Wort,4,EA,17.09,0.05,17.95,10,N,21
+913,Liquid Malt Extract,Briess,Munich Malt Extract Syrup,3.3,LB,14.24,0.05,14.95,0,Y,21
+914,Liquid Malt Extract,Briess,Pilsen (Light) Malt Extract Syrup,3.3,LB,9.02,0.05,9.47,8,N,13
+915,Liquid Malt Extract,Briess,Amber Malt Extract Syrup,3.3,LB,14.24,0.05,14.95,2,N,15
+916,Liquid Malt Extract,Briess,Wheat Malt Extract Syrup,3.3,LB,14.24,0.05,14.95,5,N,19
+917,Liquid Malt Extract,Briess,Gold Malt Extract Syrup,3.3,LB,9.02,0.05,9.47,6,N,8
+918,Liquid Malt Extract,Briess,Sorghum Extract Syrup,3.3,LB,15.19,0.05,15.95,2,N,9
+919,Liquid Malt Extract,Briess,Dark Malt Extract Syrup,3.3,LB,14.24,0.05,14.95,4,N,7
+920,Equipment,Backyard Pro,"Backyard Pro Square Single Burner 55,000 BTU",1,EA,56.99,0.05,59.84,11,N,11
+921,Equipment,Backyard Pro,"Backyard Pro Single Burner 110,000 BTU",1,EA,61.74,0.05,64.83,4,N,21
+922,Equipment,Backyard Pro,"Backyard Pro Square Single Burner with Adjustable Height 110,000 BTU",1,EA,71.24,0.05,74.8,5,N,17
+923,Equipment,Concord,"36"" Stainless Steel One Piece Deluxe Commercial Grade Mixing Paddle",1,EA,25.63,0.05,26.91,3,N,21
+924,Equipment,Bayou Classic,1042 42-in Stainless Stir Paddle 42-in,1,EA,29.36,0.05,30.82,7,N,19
+925,Equipment,HBYOB,"Stainless Steel Brewing Mash Paddle 24"" Inch with Hanging Hook",1,EA,22.79,0.05,23.93,12,N,20
+926,Equipment,Winco,"36"" Stainless Steel Mixing Paddle",1,EA,18.79,0.05,19.73,12,N,11
+927,Equipment,Home Brew Ohio,"28"" Plastic Stirring Paddle",1,EA,13.25,0.05,13.92,2,N,20
+928,Equipment,Epicurean,"Nutmeg/Slate Mini Mash Paddle 28.75"" x 5.25""",1,EA,42.7,0.05,44.84,10,N,16
+929,Equipment,Home Brew Ohio,"18"" Plastic Spoon & Paddle Set",1,EA,12.04,0.05,12.64,6,N,8
+930,Bottling,RiteBrew,Gold Oxygen Absorbing Bottle Caps,144,EA,7.38,0.05,7.75,5,N,20
+931,Bottling,Home Brew Ohio,Star Crown Oxygen Absorbing Red Crowns,144,EA,4.31,0.05,4.53,2,N,15
+932,Bottling,The Cary Company,Twin Lever Beer Bottle Capper,1,EA,16.72,0.05,17.56,10,N,14
+933,Bottling,Anvil Brewing,Bench Bottle Capper,1,EA,65.55,0.05,68.83,4,N,11
+934,Kegging,Northern Brewer,Economy Tap Handle,1,EA,5.03,0.05,5.28,12,N,7
+935,Kegging,KegWorks,Faucet Tap Handle Stainless Steel,1,EA,16.14,0.05,16.95,6,N,10
+936,Kegging,KegWorks,Pub Style Beer Tap Handle with Oval Shield,1,EA,23.74,0.05,24.93,1,N,7
+937,Dry Yeast,CellarScience,GERMAN Dry Lager Yeast,12,g,4.27,0.05,4.48,2,N,20
+938,Dry Yeast,CellarScience,CALI Dry Yeast,12,g,4.27,0.05,4.48,11,N,17
+939,Dry Yeast,CellarScience,ENGLISH Dry Yeast,12,g,4.27,0.05,4.48,7,N,9
+940,Dry Yeast,CellarScience,NECTAR Dry Yeast,12,g,4.27,0.05,4.48,4,N,19
+941,Dry Yeast,CellarScience,Clearzyme - Beer Clarifier,12,g,4.27,0.05,4.48,3,N,10
+942,Dry Yeast,CellarScience,SAISON Dry Yeast,12,g,3.79,0.05,3.98,3,N,16
+943,Dry Yeast,CellarScience,MONK Dry Yeast,12,g,3.79,0.05,3.98,9,N,9
+944,Dry Yeast,CellarScience,BERLIN Dry Lager Yeast,12,g,4.27,0.05,4.48,1,N,7
+945,Canning,Cannular,Bench Top Can Seamer ,1,EA,522.49,0.05,548.62,1,N,20
+946,Canning,Cannular,Pro Semi-Auto Bench Top Can Seamer,1,EA,664.99,0.05,698.24,1,N,19
+947,Canning,Herma,Semi-Automatic Label Applicator Machine,1,EA,854.99,0.05,897.74,1,N,21
+948,Canning,American Canning,12oz Standard Brite Can,1,EA,0.95,0.05,1,12,N,17
+949,Canning,American Canning,Standard 6Pak Can Carrier (Easy Release),1,EA,1.9,0.05,2,2,N,15
+950,Canning,American Canning,16oz Standard Brite Can - 14 Layers,1,EA,1.43,0.05,1.5,7,N,14
+951,Canning,American Canning,Standard QuadPak Can Carrier (Easy Release),1,EA,1.9,0.05,2,2,N,9
+952,Canning,American Canning,Growler-sized 300 Can End (BPANI),1,EA,0.76,0.05,0.8,11,N,8
+953,Canning,American Canning,202 SuperEnd® Can End (EPOXY),1,EA,0.48,0.05,0.5,2,N,12
+954,Base Malt,Viking Malt,Pilsner Malt,1,LB,2.27,0.05,2.38,10,N,18
+955,Base Malt,Viking Malt,Pale Ale Malt,1,LB,2.27,0.05,2.38,9,N,10
+956,Base Malt,Viking Malt,2-Row Xtra Pale Malt,1,LB,2.27,0.05,2.38,2,N,15
+957,Base Malt,Viking Malt,Wheat Malt,1,LB,2.27,0.05,2.38,1,N,21
+958,Base Malt,Viking Malt,Vienna Malt,1,LB,2.27,0.05,2.38,4,N,19
+959,Base Malt,Viking Malt,Rye Malt,1,LB,2.27,0.05,2.38,9,N,11
+960,Caramel Malt,Viking Malt,Caramel 100 (40L) Malt,1,LB,2.27,0.05,2.38,3,N,16
+961,Specialty,Viking Malt,Roasted Barley,1,LB,2.84,0.05,2.98,2,N,11
+962,Specialty,Viking Malt,Cookie Malt,1,LB,2.84,0.05,2.98,2,N,8
+963,Caramel Malt,Viking Malt,Caramel 150 (60L) Malt,1,LB,2.27,0.05,2.38,2,N,8
+964,Base Malt,Viking Malt,Dextrin Malt,1,LB,2.84,0.05,2.98,1,N,11
+965,Base Malt,Viking Malt,Munich Dark Malt,1,LB,2.27,0.05,2.38,6,N,17
+966,Specialty,Viking Malt,Chocolate Dark Malt,1,LB,2.84,0.05,2.98,9,N,12
+967,Caramel Malt,Viking Malt,Caramel 50 (20L) Malt,1,LB,2.27,0.05,2.38,3,N,15
+968,Base Malt,Viking Malt,Black Malt,1,LB,2.84,0.05,2.98,2,N,12
+969,Base Malt,Viking Malt,Golden Ale Malt,1,LB,2.84,0.05,2.98,12,N,17
+970,Specialty,Viking Malt,Smoked Wheat Malt,1,LB,2.84,0.05,2.98,5,N,7
+971,Base Malt,Viking Malt,Red Ale Malt,1,LB,2.27,0.05,2.38,11,N,12
+972,Specialty,Viking Malt,Smoked Malt (Beechwood),1,LB,2.84,0.05,2.98,2,N,18
+973,Specialty,Viking Malt,Red Active Malt,1,LB,2.84,0.05,2.98,10,N,20
+974,Specialty,Viking Malt,Enzyme Malt,1,LB,2.84,0.05,2.98,1,N,11
+975,Caramel Malt,Viking Malt,Caramel 300 (115L) Malt,1,LB,2.27,0.05,2.38,7,N,12
+976,Specialty,Viking Malt,Lightly Peated Malt,1,LB,2.84,0.05,2.98,4,N,19
+977,Specialty,Viking Malt,Pearled Black Malt,1,LB,2.84,0.05,2.98,7,N,10
+978,Caramel Malt,Viking Malt,Caramel 400 (150L) Malt,1,LB,2.27,0.05,2.38,12,N,11
+979,Caramel Malt,Viking Malt,Caramel 600 Malt,1,LB,2.27,0.05,2.38,2,N,21
+980,Equipment,Anvil Brewing,Anvil Forge Burner,1,EA,118.75,0.05,124.69,1,N,15
+981,Equipment,Anvil Brewing,Anvil Burner Leg Extensions - pkg of 3,1,EA,33.25,0.05,34.91,2,N,14
+982,Equipment,Anvil Brewing,Anvil Forge Burner Natural Gas Conversion Kit,1,EA,16.15,0.05,16.96,8,N,20
+983,Equipment,Anvil Brewing,5.5 Gallon Brew Kettle,1,EA,123.5,0.05,129.68,1,N,17
+984,Equipment,Anvil Brewing,7.5 Gallon Brew Kettle,1,EA,170.05,0.05,178.55,1,N,17
+985,Equipment,Anvil Brewing,10 Gallon Brew Kettle,1,EA,189.05,0.05,198.5,1,N,7
+986,Equipment,Anvil Brewing,15 Gallon Brew Kettle,1,EA,284.05,0.05,298.25,1,N,18
+987,Equipment,Anvil Brewing,20 Gallon Brew Kettle,1,EA,293.55,0.05,308.23,1,N,19
+988,Equipment,Anvil Brewing,7.5 Gallon Bucket Fermentor,1,EA,160.55,0.05,168.58,1,N,20
+989,Equipment,Anvil Brewing,4 Gallon Bucket Fermentor,1,EA,124.45,0.05,130.67,1,N,7
+990,Equipment,Anvil Brewing,Spunding Valve - PET Fermentors,1,EA,42.75,0.05,44.89,8,N,11
+991,Equipment,Anvil Brewing,Gas Ball Lock Disconnect,1,EA,5.7,0.05,5.99,5,N,16
+992,Equipment,Anvil Brewing,5 Gallon Fermenter King Junior,1,EA,85.5,0.05,89.78,4,N,19
+993,Equipment,Anvil Brewing,7.9 Gallon Fermenter King Chubby,1,EA,141.55,0.05,148.63,1,N,16
+994,Equipment,Anvil Brewing,9.2 Gallon Fermenter King Snub Nose,1,EA,160.55,0.05,168.58,1,N,16
+995,Equipment,Anvil Brewing,9.2 Gallon Fermenter King Unitank,1,EA,170.05,0.05,178.55,1,N,7
+996,Equipment,Anvil Brewing,15.8 Gallon Fermenter King Unitank,1,EA,236.55,0.05,248.38,1,N,10
+997,Equipment,Anvil Brewing,15.8 Gallon Fermenter King Snub Nose,1,EA,189.05,0.05,198.5,1,N,17
+998,Equipment,Anvil Brewing,"Anvil 21"" Swirly",1,EA,27.55,0.05,28.93,6,N,21
+999,Equipment,Anvil Brewing,"Anvil 15"" Swirly",1,EA,26.6,0.05,27.93,1,N,20
+1000,Equipment,Anvil Brewing,Bottle Capper,1,EA,65.55,0.05,68.83,12,N,15
+1001,Equipment,Anvil Brewing,"QuickConnector 1/2"" Straight Barb",1,EA,13.29,0.05,13.96,7,N,11
+1002,Equipment,Anvil Brewing,"QuickConnector 1/2"" Elbow",1,EA,16.14,0.05,16.95,4,N,13
+1003,Equipment,Anvil Brewing,Brew Kettle Drain Valve and Mounting Hardware,1,EA,33.25,0.05,34.91,9,N,12
+1004,Equipment,Anvil Brewing,Anvil Weldless Thermometer,1,EA,23.75,0.05,24.94,4,N,12
+1005,Equipment,Anvil Brewing,NPT Thermometer,1,EA,19.95,0.05,20.95,11,N,19
+1006,Equipment,Anvil Brewing,Brewing Spoon,1,EA,18.05,0.05,18.95,10,N,11
+1007,Equipment,Anvil Brewing,High Precision Digital Scale,1,EA,23.75,0.05,24.94,5,N,8
+1008,Equipment,Anvil Brewing,Large Grain Scale,1,EA,75.05,0.05,78.8,9,N,17
+1009,Equipment,Anvil Brewing,Mash Paddle,1,EA,27.55,0.05,28.93,1,N,17
+1010,Equipment,Anvil Brewing,Kettle Strainer,1,EA,46.55,0.05,48.88,11,N,16
+1011,Equipment,Anvil Brewing,7.5 Gallon Ferment in a Kettle (FIAK) Kit,1,EA,27.55,0.05,28.93,5,N,19
+1012,Equipment,Anvil Brewing,5.5 Gallon Ferment in a Kettle (FIAK) Kit,1,EA,23.75,0.05,24.94,11,N,7
+1013,Equipment,Anvil Brewing,20 Gallon Ferment in a Kettle (FIAK) Kit,1,EA,42.75,0.05,44.89,5,N,18
+1014,Equipment,Anvil Brewing,15 Gallon Ferment in a Kettle (FIAK) Kit,1,EA,37.05,0.05,38.9,3,N,17
+1015,Equipment,Anvil Brewing,10 Gallon Ferment in a Kettle (FIAK) Kit,1,EA,36.1,0.05,37.91,7,N,20
+1016,Equipment,Anvil Brewing,7.5 Gallon False Bottom Assembly,1,EA,56.05,0.05,58.85,12,N,20
+1017,Equipment,Anvil Brewing,5.5 Gallon False Bottom Assembly,1,EA,52.25,0.05,54.86,12,N,19
+1018,Equipment,Anvil Brewing,20 Gallon False Bottom Assembly,1,EA,95,0.05,99.75,12,N,18
+1019,Equipment,Anvil Brewing,15 Gallon False Bottom Assembly,1,EA,85.5,0.05,89.78,7,N,19
+1020,Equipment,Anvil Brewing,Dip Tube,1,EA,16.15,0.05,16.96,3,N,15
+1021,Equipment,Anvil Brewing,Anvil Brewing Pump,1,EA,56.99,0.05,59.84,10,N,12
+1022,Equipment,Anvil Brewing,Turbo 500 Condenser Copper,1,EA,331.55,0.05,348.13,1,N,18
+1023,Equipment,Anvil Brewing,Turbo 500 Stainless Steel Condenser,1,EA,284.05,0.05,298.25,1,N,13
